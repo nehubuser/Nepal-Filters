@@ -1,6 +1,6 @@
 ! Title: Nepal Filters
-! Last modified: %timestamp%
-! Expires: # days
+! Last modified: 22:05
+! Expires: 10 days
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
 ! License: https://github.com/nehubuser/Nepal-Filters/blob/main/LICENSE
