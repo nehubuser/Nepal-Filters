@@ -2,8 +2,8 @@
 ! Last modified: %timestamp%
 ! Expires: # days
 ! Description: Filters optimized for uBlock, to be used along EasyList
-! Homepage:  
-! License:  
+! Homepage: https://github.com/nehubuser/Nepal-Filters 
+! License: https://github.com/nehubuser/Nepal-Filters/blob/main/LICENSE
 !
  
 
