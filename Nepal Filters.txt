@@ -1101,4 +1101,20 @@ www.nayapatrikadaily.com##.margin-top.banner-ad
 ||nayapatrika.fsn1.your-objectstorage.com/advertise*$image
 www.nayapatrikadaily.com##.col-md-3
 
+! Mar 26, 2025 https://annapurnapost.com
+annapurnapost.com##.active.custom__modal
+
+! Mar 26, 2025 https://rajdhanidaily.com
+rajdhanidaily.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-default-theme.pum-theme-281.pum-overlay.pum
+rajdhanidaily.com##.elementor-inner-section.elementor-section.elementor-section-height-default.elementor-section-boxed.elementor-element-17409d31.elementor-element
+rajdhanidaily.com##.swiper-wrapper.elementor-image-carousel > .swiper-slide
+rajdhanidaily.com##.elementor-inner-column.elementor-col-100.elementor-column.elementor-element-283bb5d.elementor-element > .elementor-element-populated.elementor-column-wrap
+
+! Mar 26, 2025 https://www.techpana.com
+www.techpana.com##.news__details-titles > .mt-30.newsTech-ads
+
+! Mar 26, 2025 https://www.techpana.com
+www.techpana.com##.news-header-top
+
+
 !end 
