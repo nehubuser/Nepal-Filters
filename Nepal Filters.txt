@@ -4,12 +4,12 @@
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
 ! License: https://github.com/nehubuser/Nepal-Filters/blob/main/LICENSE
+!#if !env_mv3
+!#if !ext_ubol
+!#if !adguard_ext_android_cb
 
 
-! 2021-08-21 https://hamrobazaar.com
 hamrobazaar.com##center > table > tbody > tr > td
-
-! 2021-08-21 https://www.onlinekhabar.com
 ||www.nepalhomes.com*$subdocument
 www.onlinekhabar.com##.mmt-60.ok__container > .add__fullwidth
 www.onlinekhabar.com##.flex-box.colspan9.top__ads
@@ -20,8 +20,6 @@ www.onlinekhabar.com##.site-footer
 www.onlinekhabar.com##.ok__copyright
 www.onlinekhabar.com##.main_story_sectn.bg__lightgrey-x-2 > .ok__container > .has_side-bar.ok__news--category > .side__add
 www.onlinekhabar.com##section.ok__news--sectn.section > .ok__container > .has_side-bar.ok__news--category > .side__add
-
-! 2021-08-21 https://www.sharesansar.com
 ||contents.sharesansar.com/photos/shares/advertisement/1611313374-ss-pro-1220_70.gif?ver=21$image
 www.sharesansar.com##header
 www.sharesansar.com##div.clearfix:nth-of-type(7)
@@ -30,15 +28,11 @@ www.sharesansar.com##footer
 www.sharesansar.com##.outer-footer
 www.sharesansar.com##.margin-top-10.social-share
 ||admana.net*$image
-
-! 2021-08-21 https://merolagani.com
 merolagani.com##.popup
 merolagani.com##.logobar
 merolagani.com##.topbar
 merolagani.com##.footer
 merolagani.com##div.col-xs-12.col-sm-4.col-md-4:nth-of-type(2)
-
-! 2021-08-21 https://aarthiknews.com
 aarthiknews.com##header
 aarthiknews.com##.fullwidth
 aarthiknews.com##div#newsListBlock > .container > .row > .col-lg-3.col-md-4.col-sm-12 > .blocks
@@ -58,8 +52,6 @@ aarthiknews.com##footer
 ||aarthiknews.com/uploads/media/06-Aarthik_20210315143832.com_350X150$image
 ||aarthiknews.com/uploads/media/AAA_20210813084312.jpg$image
 aarthiknews.com##.container > .row > .col-md-3
-
-! 2021-08-21 https://www.nepalipaisa.com
 www.nepalipaisa.com###popUp
 www.nepalipaisa.com###sfAd2
 www.nepalipaisa.com###sfMenu
@@ -69,8 +61,6 @@ www.nepalipaisa.com##.footer_section.clearfix.sfOuterwrapper
 www.nepalipaisa.com##.footer_section_btm.clearfix.sfOuterwrapper
 www.nepalipaisa.com##.sfMiddletop > .clearfix.sfMoreblocks > .sfCol_100
 www.nepalipaisa.com##.divReply
-
-! 2021-08-21 https://www.setopati.com
 www.setopati.com##.col-md-12.desktop-bottom-bigyaapan-only.full-bigyaapan
 ||img.setopaty.com/uploads/bigyaapan*$image
 www.setopati.com##.col-md-12.logo-box
@@ -78,15 +68,11 @@ www.setopati.com##.col-md-3.col-sm-4.innerpages.right-side
 ||img.setopaty.com/uploads/bigyaapan/*$image
 www.setopati.com##.footer
 www.setopati.com##.authors-box.row
-
-! 2021-08-21 https://www.ratopati.com
 www.ratopati.com##.header-blocks
 www.ratopati.com###footer > div.col-md-12
 www.ratopati.com###footer
 www.ratopati.com##.col-md-3 > div.row
 www.ratopati.com##.ot-content-block > div.ot-content-block > .ot-material-card-content
-
-! 2021-08-21 https://ratopati.com
 ratopati.com##.col-md-3 > div.row
 ratopati.com##.paraAd.flex-paraAd
 ratopati.com##p:nth-of-type(18)
@@ -102,8 +88,6 @@ ratopati.com##.header-blocks
 ratopati.com##div.detailbannerAd.paraAd.row > .col-md-12
 ratopati.com##.article-head > .row
 ratopati.com##.breadcrumb
-
-! 2022-06-03 https://www.onlinekhabar.com
 www.onlinekhabar.com##.ok_roadblock > .flex-box
 www.onlinekhabar.com##.ok_roadblock
 www.onlinekhabar.com##section.after-topics.ok-full-widht-adv:nth-of-type(1)
@@ -112,54 +96,32 @@ www.onlinekhabar.com##div.ok-details-adv-in-left:nth-of-type(1)
 www.onlinekhabar.com##.ok18-single-post-content-wrap > .okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
 www.onlinekhabar.com##.ok-site-footer
 www.onlinekhabar.com##.ok-footer-info
-
-! 2022-06-03 https://merolagani.com
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB11_divAdvertisement
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB6_divAdvertisement
 merolagani.com##div.col-md-3 > .visible-desktop-ad
-
-! 2022-06-03 https://www.sharesansar.com
 ||content.sharesansar.com/photos/shares/advertisement/*$image
 ||content.sharesansar.com/photos/shares/advertisement/*$image
 www.sharesansar.com##.mm-top.margin-top-bottom-10
-
-! 2022-06-03 https://www.ratopati.com
 www.ratopati.com##.in.fade.modal
 www.ratopati.com##.in.fade.modal-backdrop
-
-! 2022-06-03 https://ratopati.com
 ratopati.com##.in.fade.modal
 ratopati.com##.in.fade.modal-backdrop
 ratopati.com###header-top-block
 ratopati.com##.ot-content-block > .row
 ratopati.com##.center-aligned-ad.row
 ratopati.com##hr:nth-of-type(13)
-
-! 2022-06-05 https://www.onlinekhabar.com
 www.onlinekhabar.com##.ok-section-mukhya.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
 www.onlinekhabar.com##section.after-topics.ok-full-widht-adv > .ok-container
 www.onlinekhabar.com##.ok-samachar-section.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
 www.onlinekhabar.com##.ok-section-business.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
 www.onlinekhabar.com##section.ok-full-widht-adv > .ok__container
-
-! 2022-06-08 https://merolagani.com
 merolagani.com###offer_modal
 merolagani.com##.in.modal-backdrop
-
-! 2022-06-09 https://ekantipur.com
 ekantipur.com##div.ekans-wrapper:nth-of-type(2)
 ekantipur.com##div.ekans-wrapper:nth-of-type(3)
 ekantipur.com##.col-xs-3
 ekantipur.com##.col-md-8.col-sm-8.col-xs-8.footer
-
-! 2022-06-10 https://www.ratopati.com
 www.ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(7)
-
-! 2022-06-15 https://boards.4channel.org
-boards.4channel.org###delform > .adc-resp-bg
-boards.4channel.org##body > .adc-resp-bg
-
-! 2022-06-19 https://www.setopati.com
 www.setopati.com###inner-jacket > .modal_content > .imagebox
 www.setopati.com###inner-jacket > .modal_content
 www.setopati.com##.desktop-jacket-bigyaapan.modalbox
@@ -168,11 +130,7 @@ www.setopati.com###desktop_sticky_3d_ad
 www.setopati.com##.bottom-bigyaapan.row
 www.setopati.com##p:nth-of-type(16)
 www.setopati.com##.col-md-12.full-ad
-
-! 2022-06-19 https://www.ratopati.com
 www.ratopati.com##.text-center.box-wrapper
-
-! 2022-06-19 https://ratopati.com
 ratopati.com##.text-center.box-wrapper
 ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(7)
 ratopati.com##.article-head > div.col-md-12
@@ -191,18 +149,10 @@ ratopati.com##hr:nth-of-type(4)
 ratopati.com##hr:nth-of-type(5)
 ratopati.com##hr:nth-of-type(6)
 ratopati.com##hr:nth-of-type(12)
-
-! 2022-06-19 https://ekantipur.com
 ekantipur.com##.box-sponsored
-
-! 2023-01-04 https://www.onlinekhabar.com
 www.onlinekhabar.com##.nh_widget_wrap
-
-! 2022-12-21 https://www.onlinekhabar.com
 www.onlinekhabar.com##.okam-device-desktop.single-top-header.okam-ad-position-wrap
 www.onlinekhabar.com##.owl-stage
-
-! 2023-01-06 https://www.ratopati.com
 www.ratopati.com##div.full-banner-adv:nth-of-type(11)
 www.ratopati.com##.header
 www.ratopati.com##[href="https://agnimahindra.com/"]
@@ -220,32 +170,18 @@ www.ratopati.com##[href="https://www.nabilbank.com/individual"]
 www.ratopati.com##.news-container > div.full-banner-adv.contentarea-adv > .dnn-ad-placeholder.dn-container
 www.ratopati.com##.last-footer
 www.ratopati.com##.first-footer
-
-! 2023-01-06 https://www.setopati.com
 ||www.setopati.com/uploads/bigyaapan/*$image
 www.setopati.com##.col-md-3.col-sm-4.right-side
 www.setopati.com##.col-md-12.comment-box
-
-! 2023-01-10 https://aarthiknews.com
 aarthiknews.com##.show.fade.modal
 aarthiknews.com##.show.fade.modal-backdrop
-
-! 2023-01-10 https://www.onlinekhabar.com
 www.onlinekhabar.com##.okam-device-desktop.carousel
-
-! 2023-01-10 https://www.ratopati.com
 www.ratopati.com##.skip__banner-ad
-
-! 2023-01-22 https://ekantipur.com
 ekantipur.com##.ekans-row
-
-! 2023-01-26 https://nepsealpha.com
 nepsealpha.com##.clearfix.header
 ||nepsealpha.com/uploads/khalti-nepsealpha.png$image
 ||nepsealpha.com/uploads/*$image
 ||nepsealpha.com/uploads*$image
-
-! 2023-02-07 https://bizmandu.com
 bizmandu.com##.site-header
 bizmandu.com##.banner
 bizmandu.com##.col-lg-3
@@ -257,51 +193,29 @@ bizmandu.com##.bigyapan-inside-content
 bizmandu.com##section.banner-bigyapan:nth-of-type(5)
 bizmandu.com##section.banner-bigyapan:nth-of-type(7)
 bizmandu.com##section.banner-bigyapan:nth-of-type(9)
-
-! 2023-02-20 https://www.ratopati.com
 www.ratopati.com##div.full-banner-adv:nth-of-type(14)
 www.ratopati.com##div.full-banner-adv:nth-of-type(15)
 www.ratopati.com##div.full-banner-adv:nth-of-type(17)
 www.ratopati.com##div.full-banner-adv:nth-of-type(18)
 ||npcdn.ratopati.com/media/promo/*$image
-
-! 2023-02-26 https://merolagani.com
 merolagani.com##.news-inner-ads > .row
-
-! 2023-03-13 https://merolagani.com
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB5_divAdvertisement
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB4_divGeneral
 merolagani.com##div.visible-desktop-ad.col-md-3.col-sm-12:nth-of-type(2)
-
-! 2023-03-19 https://merolagani.com
 merolagani.com##.container > .visible-desktop-ad
-
-! 2023-03-20 https://merolagani.com
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementC1_divGeneral > .col-lg-12
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementC4_divGeneral > .col-lg-12
-
-! 2023-03-27 https://merolagani.com
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementC2_divGeneral > .col-lg-12
-
-! 2023-04-28 https://merolagani.com
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementH2_divGeneral > .col-lg-12
 merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementH5_divGeneral > .col-lg-12
 merolagani.com###ctl00_AdvertisementS1_divGeneral > .col-lg-12
-
-! 2023-04-29 https://www.nepalipaisa.com
 www.nepalipaisa.com###hide-mobile
 www.nepalipaisa.com##body > np-ads-1 > .np-ads
 ||adminapi.nepalipaisa.com/assets/uploads/advertisement/*$image
-
-! 2023-04-30 https://www.nepalipaisa.com
 www.nepalipaisa.com##.fuller.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-12 > .ads-wrap [href] > .lazy
 www.nepalipaisa.com###Scroll > ul
 www.nepalipaisa.com##.fuller.col-xs-12.col-sm-12.col-md-12.col-lg-2.col-xl-2
-
-! 2023-05-07 https://www.nepalipaisa.com
 www.nepalipaisa.com##.fuller.col-xs-12.col-sm-12.col-md-12.col-lg-3.col-xl-3
-
-! 2023-06-01 https://shilapatra.com
 shilapatra.com##.top-masthead.section > .container > .split-box.bigyaapan-box.row
 shilapatra.com##.search-area.trending-box
 shilapatra.com##.regular-bigyaapan.section
@@ -318,11 +232,7 @@ shilapatra.com##.col-md-12.col-sm-12.logo-box
 ||shilapatra.com/uploads/bigyaapan/*.gif$image
 shilapatra.com##.comment-box
 shilapatra.com##p:nth-of-type(29)
-
-! 2023-08-16 https://merolagani.com
 ||images.merolagani.com//content/bigyapan/*$image
-
-! 2024-01-17 https://aarthiknews.com
 aarthiknews.com##.css-u32h8u > .css-18tx4is
 aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(5)
 aarthiknews.com##.css-13htvlu.chakra-stack
@@ -330,27 +240,13 @@ aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(8)
 aarthiknews.com##.css-1brohqp.chakra-container.chakra-stack
 aarthiknews.com##.css-ql1g0w
 aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(1)
-
-! 2024-01-20 https://aarthiknews.com
 aarthiknews.com##.css-x431zj.chakra-stack
-
-! Jul 5, 2024 https://www.ratopati.com
 www.ratopati.com##.dnn-popup-placeholder
-
-! Sep 12, 2024 https://www.onlinekhabar.com
 ||www.onlinekhabar.com/wp-content/uploads/2024/09/Iocfasterresultpressbanner700x80-ezgif.com-video-to-gif-converter.gif$image
-
-! Sep 20, 2024 https://www.nepalipaisa.com
 www.nepalipaisa.com##.show.imagePopupModal.modal
 www.nepalipaisa.com##.show.modal-backdrop
-
-! Sep 26, 2024 https://www.onlinekhabar.com
 www.onlinekhabar.com##.ok-section-reels.ok-section.okv4-section
-
-! Mar 11, 2025 https://www.ratopati.com
 www.ratopati.com##.classified-ad
-
-! 2022-02-10 https://www.setopati.com
 www.setopati.com##.desktop-featured-bigyaapan.bigyaapan-item.media > [href="https://islington.edu.np/"]
 www.setopati.com##div.insert-ad:nth-of-type(1)
 www.setopati.com##.col-md-3.col-sm-4.innerpages.right-side
@@ -361,14 +257,10 @@ www.setopati.com##.mast-head.col-md-12 > .row
 www.setopati.com##.header-bottom.container
 www.setopati.com##body > .col-md-12.top-full.main-bigyaapan
 ||img.setopaty.com/uploads/bigyaapan/07823900.jpeg$image
-
-! 2022-02-11 https://narayanionline.com
 narayanionline.com##.so-content.no-news-main-content > .no-vigyapan-section
 narayanionline.com##div.container > .no-vigyapan-section
 narayanionline.com##.inside-a
 narayanionline.com##.col-lg-3.col-md-4
-
-! 2022-05-28 https://ratopati.com
 ratopati.com##.box-size--width.box-face--is-left.box-face
 ratopati.com##.box-size--width.box-face--is-right.box-face
 ratopati.com##.box-size--width.box-face--is-back.box-face
@@ -381,14 +273,10 @@ ratopati.com##hr:nth-of-type(2)
 ratopati.com##hr:nth-of-type(3)
 ratopati.com##hr:nth-of-type(4)
 ratopati.com##hr:nth-of-type(5)
-
-! 2022-06-15 https://www.onlinekhabar.com
 www.onlinekhabar.com##.okam-device-desktop.single-sidebar2.okam-ad-position-wrap
 www.onlinekhabar.com##.okam-device-desktop.single-sidebar.okam-ad-position-wrap
 www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(6)
 www.onlinekhabar.com##.okam-device-desktop.single-after-news-firstphoto.okam-ad-position-wrap > .okam-each-ad
-
-! 2023-01-14 https://narayanionline.com
 ||i0.wp.com/narayanionline.com/wp-content/uploads/2022/07/central-collage-1-scaled.jpg?*&ssl=1$image
 narayanionline.com##.col-lg-9.col-md-8 > .no-vigyapan-section
 narayanionline.com##.d-md-none.d-sm-block.top-m.no-vigyapan-section
@@ -399,11 +287,8 @@ narayanionline.com##body > div.d-md-block.d-none > .row > .col-md-12
 narayanionline.com##div.no-vigyapan-section > .container
 ||i0.wp.com/narayanionline.com/wp-content/uploads/2022/06/34330500.jpg?*&ssl=1$image
 narayanionline.com##.no-margin-custom.d-lg-block.d-none.col-lg-3
-
-! 2023-01-18 https://ekantipur.com
 ||assets-cdn.kantipurdaily.com/uploads/source/ads/honor-1812023123124.jpg$image
 ||assets-cdn.kantipurdaily.com/uploads/source/ads/1-1-1412023052738.jpg$image
-
 ||assets-cdn.kantipurdaily.com/uploads/source/ads/fomo-1812023123103.jpg$image
 ekantipur.com##.swiper-slide-prev.swiper-slide > [href^="https://click.daraz.com.np/e/_CX0iox"]
 ekantipur.com##.swiper-cube-shadow
@@ -411,13 +296,9 @@ ekantipur.com##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > [href^
 ekantipur.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container-3d.swiper-container-cube.swiper-container
 ekantipur.com##.box-close
 ekantipur.com##.current-news-block.description > a.static-sponsor
-
-! 2023-11-26 https://www.ratopati.com
 www.ratopati.com##.dnn-ad-placeholder.sidebar-adv > .desktop-mode
 www.ratopati.com##.content-banner--single
 www.ratopati.com##[href="https://sarbottamcement.com/"]
-
-! 2024-02-13 https://saurahaonline.com
 saurahaonline.com##div.uk-container > .uk-grid.uk-grid-medium > .uk-width-1-4\@m
 saurahaonline.com###media_image-189
 saurahaonline.com###media_image-95
@@ -430,8 +311,6 @@ saurahaonline.com###media_image-127
 saurahaonline.com##div.position-relative.mb-3.cat-head:nth-of-type(6)
 saurahaonline.com###media_image-196
 saurahaonline.com###media_image-206
-
-! 2024-04-27 https://nagariknews.nagariknetwork.com
 nagariknews.nagariknetwork.com###adverts12137
 nagariknews.nagariknetwork.com##.footer-sticky-ad.desktop-notice.m-0.show.fixed-bottom.fade.alert-light.alert-dismissible.alert
 nagariknews.nagariknetwork.com##.ads_detail_after_image.mb-3.col-md-12
@@ -439,16 +318,12 @@ nagariknews.nagariknetwork.com##.ads_detail_after_side_after
 .gif|$domain=nagariknetwork.com,image
 .gif|$domain=nagariknews.nagariknetwork.com,image
 .gif|$domain=nagariknewscdn.com,image
-
-! https://www.setopati.com
 www.setopati.com##.mobile-bigyaapan-only
 www.setopati.com##.desktop-bigyaapan-only
 www.setopati.com##.cube-bigyaapan
 www.setopati.com##.sticky-footer-bigyaapan
 www.setopati.com##.main-bigyaapan
 ||www.setopati.com/uploads/bigyaapan/*$image
-
-! https://www.onlinekhabar.com
 www.onlinekhabar.com##section.ok-full-widht-ad
 vwww.onlinekhabar.com##.okam-device-desktop.single-sidebar.okam-ad-position-wrap
 www.onlinekhabar.com##.okam-each-ad
@@ -458,13 +333,9 @@ www.onlinekhabar.com##.ok18-inbetween-ad-2
 www.onlinekhabar.com##.ok18-inbetween-mobile-ad-2
 www.onlinekhabar.com##.nh_widget_wrap
 www.onlinekhabar.com##.tribox-add
-
-! https://www.ratopati.com/
 www.ratopati.com##.sticky.sidebar-adv
 www.ratopati.com##.full-banner-adv
 www.ratopati.com##.adv-item
-
-! https://ekantipur.com
 ekantipur.com###roadblock-ad
 ekantipur.com##.static-sponsor
 ekantipur.com##.box-sponsored
@@ -472,22 +343,14 @@ ekantipur.com##.sponser-list
 ekantipur.com##.daraz-sponser
 ekantipur.com##.static-sponser
 ||assets-cdn.kantipurdaily.com/uploads/source/ads/*
-
-! https://annapurnapost.com/
 annapurnapost.com##.bigyapan
-
-! https://chakrapath.com
 chakrapath.com##app-ad-control-header
 ||api.chakrapath.com/Content/AdImages/*$image
 ||chakrapath.com/assets/img/alternative-ad-img.jpg$image
-
-! https://www.nepalipatra.com
 www.nepalipatra.com###blockroadModal
 ||www.nepalipatra.com/storage/advertisements/*$image
 ||i.imgur.com/*
 www.nepalipatra.com##.rd-ads
-
-! https://www.nepalpress.com
 www.nepalpress.com##.social-links
 www.nepalpress.com##.section-ad-space
 www.nepalpress.com##.gam-npad-position-wrap
@@ -495,8 +358,6 @@ www.nepalpress.com##.contentads
 www.nepalpress.com##.contentads2
 www.nepalpress.com##.gam-each-npad
 www.nepalpress.com##.bannerSticky
-
-! https://rajdhanidaily.com
 rajdhanidaily.com##.elementor-top-column.elementor-col-50.elementor-column.elementor-element-1749f878.elementor-element > .elementor-element-populated.elementor-column-wrap
 rajdhanidaily.com##.a-10.a-single
 rajdhanidaily.com##.elementor-widget-container > .elementor-image
