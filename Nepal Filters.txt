@@ -7,7 +7,7 @@
 
 
 ! 2021-08-21 https://hamrobazaar.com
-hamrobazaar.com##center > table > tbody > tr > td
+|| hamrobazaar.com##center > table > tbody > tr > td
 
 ! 2021-08-21 https://www.onlinekhabar.com
 ||www.nepalhomes.com*$subdocument
