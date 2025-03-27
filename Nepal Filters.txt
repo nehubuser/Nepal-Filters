@@ -1,4 +1,4 @@
-!Title: Nepal Adblock Filterlists 
+! Title: Nepal Adblock Filterlists 
 ! Last modified: %timestamp%
 ! Expires: 5 days
 ! Description: Filterlist optimized for uBlock, to be used along EasyList
