@@ -1,9 +1,10 @@
-[Title: Nepal Filters]
+!Title: Nepal Adblock Filterlists 
 ! Last modified: %timestamp%
 ! Expires: 5 days
-! Description: Filters optimized for uBlock, to be used along EasyList
+! Description: Filterlist optimized for uBlock, to be used along EasyList
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
 ! License: https://github.com/nehubuser/Nepal-Filters/blob/main/LICENSE
+
 !#if !env_mv3
 !#if !ext_ubol
 !#if !adguard_ext_android_cb
