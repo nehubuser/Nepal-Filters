@@ -1,7 +1,7 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Mon Mar 31 11:41:57
+! Last modified: Tue Apr  1 12:48:12 AM +0545 2025
 ! Expires: 5 days
-! Description: Filterlist optimized for uBlock, to be used along EasyList
+! Description: Filterlist optimized for uBlock, AdGuard and ABP 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
 ! License: https://github.com/nehubuser/Nepal-Filters/blob/main/LICENSE
 
@@ -817,6 +817,67 @@ www.techpana.com##.news-header-top
 shilapatra.com##.imagebox
 shilapatra.com##.modal_content
 shilapatra.com##.modalbox
+baahrakhari.com##.imagebox
+baahrakhari.com##.modal_content
+baahrakhari.com##.modalbox
+hamrakura.com##.pl-2.align-items-center.d-flex.share
+hamrakura.com##.justify-content-center.align-items-center.d-flex.share
+www.bizshala.com##.header-middlebar-style-8.header-middlebar
+www.bizshala.com##.roadblock-ad
+www.bizshala.com##.justify-content-lg-end.justify-content-start.d-flex.col-lg-6.col-xl-5
+www.bizshala.com##.pro.news-sidebar.conent-block > .social-share-style-1
+www.himalkhabar.com##.footer-wrapper
+ejanakpurtoday.com##body > .gap-30
+ejanakpurtoday.com##.header
+ejanakpurtoday.com##.ts-footer
+annapurnapost.com##div.ap__fwBigyapan:nth-of-type(1)
+annapurnapost.com##div.ap__fwBigyapan:nth-of-type(2)
+annapurnapost.com##div.ap__fwBigyapan:nth-of-type(3)
+annapurnapost.com##.ap__header-top
+annapurnapost.com##div.ap__fwBigyapan:nth-of-type(5)
+annapurnapost.com##div.ap__fwBigyapan:nth-of-type(6)
+annapurnapost.com##div.ap__fwBigyapan:nth-of-type(7)
+annapurnapost.com##.lightBackground.ap__footer
+thehimalayantimes.com##div.container > .row > .col-xs-12.noPadding.col-md-12
+thehimalayantimes.com###div-gpt-ad-1685956661087-0
+thehimalayantimes.com###div-gpt-ad-1685956704912-0
+thehimalayantimes.com##.width100.ht-square-ad > .table-center > .flexManyAds
+thehimalayantimes.com##div.ajax_widget > .width100.paddingDefault.ht-square-ad > .square-ad > .table-center > .flexManyAds
+thehimalayantimes.com##.col-xs-12.col-md-8 > div.width100.paddingDefault.ht-square-ad > .square-ad > .table-center > .flexManyAds
+thehimalayantimes.com##.theiaStickySidebar
+thehimalayantimes.com##.sidebar_right.col-xs-12.col-md-4
+thehimalayantimes.com##.header_section > div.container-fluid > .container > .row > div.col-md-12.col-12
+thehimalayantimes.com##.animate-box.column-1.dropcap > div.ht-mobile-ad
+thehimalayantimes.com##.articleDetails > .ht-mobile-ad
+||cdn4.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2025/03/30/38863.jpg&w=30&q=100&f=jpg$image
+thehimalayantimes.com##.popup-ad
+thehimalayantimes.com##.mt30.bg-light-grey.container-fluid
+www.karobardaily.com##.align-items-center.d-flex.col-sm-5
+www.karobardaily.com##.align-items-center.justify-content-end.d-flex.col-sm-7
+www.karobardaily.com##.footer-section
+www.karobardaily.com##.top-navigation
+www.abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
+www.abhiyandaily.com##div.animate-pulse.bg-gray-200.w-full.h-\[7rem\]:nth-of-type(1)
+www.abhiyandaily.com##.items-center.text-white.text-sm.md\:px-12.px-7.py-2.justify-between.flex-col.md\:flex-row.flex.bg-primary
+www.abhiyandaily.com##.text-gray-600.md\:px-24.px-3.p-10.justify-between.flex-wrap.flex.md\:flex-row.flex-col-reverse.h-fit.md\:gap-0.gap-7.w-full
+www.abhiyandaily.com##.pt-5.justify-center.flex.w-full
+www.arghakhanchi.com##.top-row
+www.arghakhanchi.com##.m4.sm12.col
+www.arghakhanchi.com##.news-body > .news-thumb
+www.arghakhanchi.com##p:nth-of-type(33)
+www.arghakhanchi.com##footer
+www.arghakhanchi.com##p:nth-of-type(9)
+www.arghakhanchi.com##p:nth-of-type(11)
+www.arghakhanchi.com##.row-1 > .row > .m4.s12.col
+www.arghakhanchi.com##div.row-3 > .row > .m4.s12.col
+www.souryaonline.com##div.advt_bx:nth-of-type(2)
+www.souryaonline.com##.mt40.footer
+nagariknews.nagariknetwork.com##.subscriber-content-check > .row
+nagariknews.nagariknetwork.com##.text-danger.text-center.font-size-14.font-bold
+nagariknews.nagariknetwork.com##.follow-social-site.d-flex.mt-3
+abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
+www.osnepal.com##.mt-4.mt-lg-0.col-lg-4
+
 
 
 !#endif
