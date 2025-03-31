@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: %timestamp%
+! Last modified: Mon Mar 31 11:41:57
 ! Expires: 5 days
 ! Description: Filterlist optimized for uBlock, to be used along EasyList
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
