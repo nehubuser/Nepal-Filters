@@ -374,7 +374,7 @@ www.onlinekhabar.com###ok-box-ad-wrap
 ||www.nepalhomes.com/*.html$subdocument
 ||election.onlinekhabar.com/wp-content/uploads/*.gif
 ||assets-cdn.kantipurdaily.com/uploads/source/ads/*$image
-ekantipur.com##div.kdaily-high-ad###roadblock-ad
+ekantipur.com##div.kdaily-high-ad
 ekantipur.com##article.sponsored.normal
 ekantipur.com##.sticky--bottom
 ekantipur.com##.sponsor-mobile
@@ -877,7 +877,9 @@ nagariknews.nagariknetwork.com##.text-danger.text-center.font-size-14.font-bold
 nagariknews.nagariknetwork.com##.follow-social-site.d-flex.mt-3
 abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
 www.osnepal.com##.mt-4.mt-lg-0.col-lg-4
-
+ekantipur.com###div-gpt-ad-1552381850802-0
+ekantipur.com##div.mainContentX-side:nth-of-type(1)
+ekantipur.com##.custom-style.central-ad-wrapper > main
 
 
 !#endif
