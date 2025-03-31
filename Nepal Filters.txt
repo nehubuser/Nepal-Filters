@@ -880,7 +880,11 @@ www.osnepal.com##.mt-4.mt-lg-0.col-lg-4
 ekantipur.com###div-gpt-ad-1552381850802-0
 ekantipur.com##div.mainContentX-side:nth-of-type(1)
 ekantipur.com##.custom-style.central-ad-wrapper > main
-
+www.techpana.com##.with-gap.auto__layout-ads
+www.techpana.com##.col-lg-1
+www.techpana.com##.newsTech_footer-top-wrapper
+||snowberry.prixa.net/saas-manager/footer/embed-code$subdocument
+www.techpana.com##main > .mt-30.newsTech-ads
 
 !#endif
 !#endif
