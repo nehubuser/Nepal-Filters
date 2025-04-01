@@ -1016,7 +1016,7 @@ yuwadaily.com##.mb-20.text-center
 ||bizshala.com/public/images/advertisement$image
 ||bpbichar.com/*.gif$image
 ||breaknlinks.com/*.gif$image
-||cdn.arthakendra.com/*.gif$imag
+||cdn.arthakendra.com/*.gif$image
 ||cdn.fbsbx.com/*.gif
 ||cdn.fbsbx.com/*.gif$image
 ||cdn4.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2025/03/30/38863.jpg&w=30&q=100&f=jpg$image
