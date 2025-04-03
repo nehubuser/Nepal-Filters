@@ -6,4 +6,4 @@ Click to [**subscribe**](https://subscribe.adblockplus.org/?location=https://raw
 
 - To report new sites with ads open an [issue](https://github.com/nehubuser/Nepal-Filters/issues/new?template=suggest-sites-with-ads-.md) with link of site/s. 
 
-This filterlist is all left reserved! See full liensing information [here](https://raw.githubusercontent.com/nehubuser/Nepal-Filters/master/LICENSE). 🄯 2005.
+This filterlist is all left reserved! See full Licensing information [here](https://raw.githubusercontent.com/nehubuser/Nepal-Filters/master/LICENSE). 🄯 2005.
