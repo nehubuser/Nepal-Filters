@@ -1368,6 +1368,15 @@ yuwadaily.com##.mb-20.text-center
 ||yuwasandesh.com/*.gif$image
 ||zen1news.com/*.gif$image
 ||zen1news.com/*1718518510-LjUF0.jpg$image
+shilapatra.com##.sp-header-wrap > .container > .row
+||accounts.google.com/gsi/iframe/select$subdocument
+merolagani.com##div.col-md-9 > .row
+hamrobazaar.com##.z-high.deskoto--lg--only.aside--ad
+hamrobazaar.com##div.mobInfeedGAds:nth-of-type(2)
+hamrobazaar.com##div.mobInfeedGAds:nth-of-type(4)
+||www.onlinekhabar.com/markets/components/marketOverview$subdocument
+onlinekhabar.com##.m-mt-20.mt-40.widget-in-left-content.markets_widget
+
 
 !#endif
 !#endif
