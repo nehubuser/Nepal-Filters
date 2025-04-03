@@ -1376,7 +1376,7 @@ hamrobazaar.com##div.mobInfeedGAds:nth-of-type(2)
 hamrobazaar.com##div.mobInfeedGAds:nth-of-type(4)
 ||www.onlinekhabar.com/markets/components/marketOverview$subdocument
 onlinekhabar.com##.m-mt-20.mt-40.widget-in-left-content.markets_widget
-
+||accounts.google.com/gsi/iframe/select$subdocument
 
 !#endif
 !#endif
