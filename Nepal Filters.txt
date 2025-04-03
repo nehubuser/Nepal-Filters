@@ -942,7 +942,8 @@ yugyandaily.com##.add-container.container
 yugyandaily.com##.widget
 yuwadaily.com##*[class*="__ads"]
 yuwadaily.com##.mb-20.text-center
-|hamropatro.com/*.gif$image
+
+||hamropatro.com/*.gif$image
 ||*.prixacdn.net/*.gif$image
 ||*.prixacdn.net/media/advertisements/*$image
 ||*eadarsha.com/wp-content/*.gif$image
