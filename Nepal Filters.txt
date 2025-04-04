@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Thu Apr  3 03:16:48 PM +0545 2025
+! Last modified: Fri Apr  4 06:53:35 PM +0545 2025
 ! Expires: 5 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -9,6 +9,22 @@
 !#if !ext_ubol
 !#if !adguard_ext_android_cb
 
+! *** General advert filters --- Copied from: indianlist:IndianList/general_block.txt --- ***
+-ad-mob
+-ad-space-
+-advt-
+-advt_
+-advts^
+-Magazine-Ad-
+/ad-150x600
+/ad-gm-
+/add728x90
+/addsense/*
+/adv-1
+/advs_
+/advt-
+/Advt_
+_advt.jpg|
 
 .gif|$domain=nagariknetwork.com,image
 .gif|$domain=nagariknews.nagariknetwork.com,image
