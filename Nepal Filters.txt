@@ -1396,6 +1396,18 @@ yuwadaily.com##.mb-20.text-center
 ||zen1news.com/*.gif$image
 ||zen1news.com/*1718518510-LjUF0.jpg$image
 
+sidhakura.com##p:nth-of-type(21)
+sidhakura.com##p:nth-of-type(20)
+sidhakura.com##p:nth-of-type(11)
+sidhakura.com##.col-12.col-md-12.col-sm-12.items > section.p-0.bigyaapan-full.bigyaapan-box.section
+sidhakura.com##div.bigyaapan-box.side-items:nth-of-type(2)
+sidhakura.com###contact
+sidhakura.com##.bigyaapan-section.normal-section.section
+sidhakura.com##section.p-0.bigyaapan-full.bigyaapan-box.section:nth-of-type(5)
+sidhakura.com##section.p-0.bigyaapan-full.bigyaapan-box.section:nth-of-type(7)
+sidhakura.com##.category-row.row > .latest-col.col-3
+sidhakura.com##.tabs-col.col-3
+
 !#endif
 !#endif
 !#endif
