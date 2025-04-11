@@ -1120,7 +1120,6 @@ yuwadaily.com##.mb-20.text-center
 ||hulaksanchar.com/*.gif$image
 ||i*.wp.com/bizkhabar.com/wp-content/uploads/*.gif$image
 ||i*.wp.com/sgp1.digitaloceanspaces.com/*/*.gif$image
-||i.imgur.com/*
 ||i0.wp.com/eadarsha.com/*.gif$image
 ||i0.wp.com/ejanakpurtoday.com/*.gif$image
 ||i0.wp.com/hamroeconomy.com/*.gif$image
