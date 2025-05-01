@@ -513,6 +513,7 @@ nepalkhabar.com##.adalytics_ad
 nepalkhabar.com##.nk-sidebar-ads
 nepalkhabar.com/*.gif$image
 nepalmag.com.np###roadblock-ad
+nepalnews.com##.widget
 nepalpress.com###primary > .section-np-space > .uk-container
 nepalpress.com##*[class*="npad"]
 nepalpress.com##.bannerSticky
