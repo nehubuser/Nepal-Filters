@@ -1,6 +1,6 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Tue May  6 02:16:56 PM +0545 2025
-! Expires: 5 days
+! Last modified: Mon May 12 07:53:42 PM +0545 2025
+! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
 ! License: https://github.com/nehubuser/Nepal-Filters/blob/main/LICENSE
@@ -301,6 +301,7 @@ hulaksanchar.com##.small-add
 iconkhabar.com##.gofollow
 iconkhabar.com##.wpra-rendered.wpra-plugin-container.wpra-reactions-wrap
 imagekhabar.com##div.uk-grid-stack.uk-grid-match.uk-grid:nth-of-type(2)
+images.merolagani.com//content/bigyapan/*
 jagarannews.com##.widget
 janaboli.com##.widget
 janachasotimes.com##.jft_ads
@@ -616,6 +617,7 @@ ourbiratnagar.net##.av_block
 ourbiratnagar.net##.floating_buttons
 ourbiratnagar.net##.gofollow
 ourbiratnagar.net##.user_poll_block
+pagead2.googlesyndication.com
 pahilopost.com##div.uk-container-center.uk-container:nth-of-type(10) > .uk-hidden-small.uk-thumbnail-expand.pahilo-shadow-box > .uk-thumbnail-expand.uk-thumbnail
 pahilopost.com##div.uk-container-center.uk-container:nth-of-type(14) > .uk-hidden-small.uk-thumbnail-expand.pahilo-shadow-box > .uk-thumbnail-expand.uk-thumbnail
 palikanews.com##.ads
