@@ -1,0 +1,9 @@
+{
+  "name": "Nepal Filter list for ublock, AdGuard and Adblock like software and extensions",
+  "website": "https://github.com/nehubuser/Nepal-Filters",
+  "description": "Filter that enables removing of the ads from Nepalese websites.",
+  "source": {
+    "url": "https://github.com/nehubuser/Nepal-Filters/blob/master/Nepal%20Filters.txt",
+    "format": "abp"
+  }
+}
