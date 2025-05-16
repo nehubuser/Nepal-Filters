@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Wed May 14 11:13:38 PM +0545 2025
+! Last modified: Fri May 16 07:43:05 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -10,6 +10,7 @@
 !#if !adguard_ext_android_cb
 
 ! *** General advert filters ***
+
 -ad-mob
 -ad-space-
 -advt-
@@ -24,63 +25,101 @@
 /advs_
 /advt-
 /Advt_
-_advt.jpg|
-2mdn-cn.net
-2mdn.net
-admob-cn.com
-admob.com
-ads.youtube.com
-adsense.com
-adsensecustomsearchads.com
-adsenseformobileapps.com
-adservice.google.com
-advertisercommunity.com
-advertiserscommunity.com
-adwords-community.com
-adwords.com
-adwordsexpress.com
-app-measurement-cn.com
-app-measurement.com
-doubleclick-cn.net
-doubleclick.cn
-doubleclick.com
-doubleclick.net
-google-analytics-cn.com
-google-analytics.com
-googleadapis.com
-googleads-cn.com
-googleads.com
-googleadservices-cn.com
-googleadservices.com
-googleadsserving.cn
-googleanalytics.com
-googleoptimize-cn.com
-googleoptimize.com
-googlesyndication-cn.com
-googlesyndication.com
-googletagmanager-cn.com
-googletagmanager.com
-googletagservices-cn.com
-googletagservices.com
-googletraveladservices-cn.com
-googletraveladservices.com
-googlevads-cn.com
-mail-ads.google.com
-marketingplatform.google.com
-urchin.com
-analytics.google.com
+
+! *** General element hiding rules ***
+
+##amp-ad
+##amp-embed.ad_cnt
+##amp-sticky-ad
+##div#adbay_adExpandDiv
+##div#adbay_adExpandIframe
+##div#adya_area
+##div#livereAd
+##div#livere_ad
+##div#mobitree
+##div#mobitreeP
+##div#prism_displayAD
+##div#spotim-specific div[class*="__browserAdOuterContainer___"]
+##div#spotim-specific div[class^="AdChoiceContainer__container--"]
+##div#spotim-specific div[class^="index__adWrapper--"]
+##div#tbl-next-up
+##div#uniqubeAd_area
+##div#uniqubeAd_area_iframe
+##div#uniqubeAd_area_text
+##div#uniqubeFirstDiv
+##div#wiseAd
+##div#wp_adbn_root
+##div.__uz__widget div.__uz__article.ad_response
+##div._popIn_recommend_container a._popIn_recommend_article_ad
+##div._popIn_recommend_container a._popIn_recommend_article_ad_reserved
+##div._popIn_recommend_container div._popIn_infinite_ad
+##div._popIn_recommend_container div._popIn_recommend_article_ad
+##div._taxel_recommend_container div[class*=" _taxel_ad_article_"]
+##div._taxel_recommend_container div[class^="_taxel_ad_article_"]
+##div.ad-template
+##div.blogroll-ad-img
+##div.ezAdsense
+##div.ezoic-ad
+##div.gpt_ad_container
+##div.js-relap__item>div.js-relap__item-inner>a[data-ad-link="true"]
+##div.logly-lift-ad a[href^="https://dsp.logly.co.jp/click"]
+##div.logly-lift-ad-ad
+##div.logly-lift-adz
+##div.ob-widget-section>ul.ob-widget-items-container>li.ob-oc
+##div.ob-widget-section>ul.ob-widget-items-container>li.ob-p
+##div.ob-widget>div.ob-widget-items-container>div.ob-p
+##div.ob_box_cont>ul>li.ob-p
+##div.ob_container>a.ob-p
+##div.pushADMiddle
+##div.realssp_dv
+##div.targetpushAd_banner_wrap
+##div.targetpushAd_pc_wrap
+##div.trc_popover_aug_container
+##div.trc_rbox_container div.trc-content-sponsored.trc_rbox
+##div.trc_rbox_container div.trc_rbox_outer div.syndicatedItem
+##div.trc_spotlight_widget[class*=" trc_elastic_thumbnails-"]
+##div.trc_spotlight_widget[class*=" trc_elastic_thumbs-"]
+##div.wpcnt
+##div[data-ad-unit-path][data-glade]
+##div[data-widget_id="1oVxnLlP"]
+##div[data-widget_id="37JAOboN"]
+##div[data-widget_id="6XgYNV7N"]
+##div[data-widget_id="6oMgVGlb"]
+##div[data-widget_id="M7N4EmXb"]
+##div[data-widget_id="OoR8Lely"]
+##div[data-widget_id="OoRxD0ly"]
+##div[data-widget_id="ml6EJ074"]
+##div[data-widget_id="ml6OBrX4"]
+##div[data-widget_id="y74NAkXV"]
+##div[id^="AD_LIVE_AREA_"]
+##div[id^="CLARE_AREA_"]
+##div[id^="M"][id*="ScriptRootC"]
+##div[id^="MarketGidScriptRootC"]
+##div[id^="div-gpt-ad-"]
+##div[id^="google_ads_iframe_"]
+##div[id^="mobonDivBanner_"]
+##div[id^="rcjsload_"] div[id^="rc_cont_"]>div#rc-row-container div.rc-item>div.rc-item-wrapper>a[rel$=" sponsored"]
+##div[id^="sbaAbout"]
+#@#.adsBox
+#@#.pub_300x250
+#@#.pub_300x250m
+#@#.pub_728x90
+#@#.text-ad
+#@#.text-ad-links
+#@#.text-ads
+#@#.textAd
+#@#.text_ad
+#@#.text_ads
 
 .gif|$domain=nagariknetwork.com,image
 .gif|$domain=nagariknews.nagariknetwork.com,image
 .gif|$domain=nagariknewscdn.com,image
 
-@@hamrokhotang.com/wp-content/uploads/2020/04/hamrokhotang.gif$image
-@@kendrabindu.com/*logo.gif$image
-@@newspolar.com/wp-content/themes/newspolar_finale/img/logo.gif
-@@yuwasandesh.com/*yuwasandesh-logo.gif$image
-@@yuwasandesh.com/wp/wp-content/uploads/2024/02/yuwasandesh-logo.gif
+! *** URL filters ***
 
 24newsfire.com##.wp-image-8281
+2mdn.net
+2mdn-cn.net
 3ghumti.com##div.ads
 3ghumti.com##div[style*="width:100%;margin-bottom:10px;"]
 aarthikbazarnews.com##*[class*="no-vigyapan"]
@@ -106,11 +145,11 @@ aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(5)
 aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(8)
 aarthiknews.com##footer
 aarthiknews.com##header
-aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4
-aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4.col-sm-12
 aarthiknews.com##section#fullwidth:nth-of-type(4)
 aarthiknews.com##section#fullwidth:nth-of-type(8)
 aarthiknews.com##section#fullwidth:nth-of-type(9)
+aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4
+aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4.col-sm-12
 abhiyandaily.com##.items-center.text-white.text-sm.md\:px-12.px-7.py-2.justify-between.flex-col.md\:flex-row.flex.bg-primary
 abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
 abhiyandaily.com##.pt-5.justify-center.flex.w-full
@@ -118,6 +157,19 @@ abhiyandaily.com##.text-gray-600.md\:px-24.px-3.p-10.justify-between.flex-wrap.f
 abhiyandaily.com##div.animate-pulse.bg-gray-200.w-full.h-\[7rem\]:nth-of-type(1)
 abpcrimenews.com##.samachar-side-ads
 actpronepal.com##.small-ad
+admob.com
+admob-cn.com
+ads.youtube.com
+adsense.com
+adsensecustomsearchads.com
+adsenseformobileapps.com
+adservice.google.com
+advertisercommunity.com
+advertiserscommunity.com
+adwords.com
+adwords-community.com
+adwordsexpress.com
+analytics.google.com
 aniwave.to##.text-center.mb-4
 annapurnapost.com##.active.custom__modal
 annapurnapost.com##.advertisement
@@ -135,6 +187,8 @@ annapurnapost.com##div.ap__fwBigyapan:nth-of-type(7)
 anticorruptionpost.com##.add-one
 anticorruptionpost.com##.ads-col
 anticorruptionpost.com##.sidebar_ads-wrap
+app-measurement.com
+app-measurement-cn.com
 arghakhanchi.com##.ad-sidebar
 arghakhanchi.com##.cookieinfo
 arghakhanchi.com##.fb-xfbml-parse-ignore
@@ -212,8 +266,12 @@ deshsanchar.com##.widget
 dharananews.com##.ads-wrapper
 dishhome.com.np##.CookieConsent
 dishhome.com.np##.modal-content
-dishhome.com.np##.show.modal-backdrop.fade
 dishhome.com.np##.show.modal.fade
+dishhome.com.np##.show.modal-backdrop.fade
+doubleclick.cn
+doubleclick.com
+doubleclick.net
+doubleclick-cn.net
 eadarsha.com##div.widget-sidebar.widget:nth-of-type(1)
 economistnepal.com##.ads
 economistnepal.com##.img-reponsive
@@ -287,20 +345,40 @@ filecr.com##.footer_wrap__l31FA > .alert
 filecr.com##.footer_wrap__l31FA > .alert > .alert-wrap
 filmykhabar.com##.topheaderpic
 filmykhabar.com##div[style*="height: 145px; overflow: hidden"]
-filmykhabar.com##div[style*="margin-top: 16px; height: 80px; padding: 4px;"]
 filmykhabar.com##div[style*="margin: 10px 0px 10px 0px"]
+filmykhabar.com##div[style*="margin-top: 16px; height: 80px; padding: 4px;"]
 filmykhabar.com##div[style*="width: 670px; height: 180px; margin-top: 16px;"]
 gadgetbytenepal.com###darazAd
 gadgetbytenepal.com##.disable-lazyload
 gadgetbytenepal.com##.wppopups-whole
 gadgetbytenepal.com##div[id*="_ad"]
 gadgetbytenepal.com##img[alt*="Ad"]
-gadgetsinnepal.com.np##.td-pb-span8.tdc-column.vc_column_container.wpb_column.tdi_54.vc_column
 gadgetsinnepal.com.np##.td_spot_img_all > .lazyloaded.entered
+gadgetsinnepal.com.np##.td-pb-span8.tdc-column.vc_column_container.wpb_column.tdi_54.vc_column
 ghatanarabichar.com##div.wrap:nth-of-type(4)
 goalnepal.com###wrapper > .adbox.section
 goalnepal.com##*[class*="adbox"]
 goalnepal.com##.above-news.adbox.section
+googleadapis.com
+googleads.com
+googleads-cn.com
+googleadservices.com
+googleadservices-cn.com
+googleadsserving.cn
+googleanalytics.com
+google-analytics.com
+google-analytics-cn.com
+googleoptimize.com
+googleoptimize-cn.com
+googlesyndication.com
+googlesyndication-cn.com
+googletagmanager.com
+googletagmanager-cn.com
+googletagservices.com
+googletagservices-cn.com
+googletraveladservices.com
+googletraveladservices-cn.com
+googlevads-cn.com
 gorkhapatraonline.com##.add
 gorkhapatraonline.com##.adds
 gorkhapatraonline.com##div.adds
@@ -428,11 +506,13 @@ lokaantar.com##.bottomStickAd
 lokpath.com##.adsimage
 lokpath.com##.widget
 madheshvani.com##.myad_home
+mail-ads.google.com
 makalukhabar.com##.gam-each-ad
 makalukhabar.com##.is-full-widescreen-ad
 makalukhabar.com##.section-ad-space
 malikatoday.com##*[class*="ads"]
 malikatoday.com##.float-right
+marketingplatform.google.com
 mediadabali.com##.ads
 merokhel.com##.widget_media_image
 merolagani.com###ctl00_AdvertisementS1_divGeneral > .col-lg-12
@@ -509,9 +589,9 @@ nepalbishesh.com##.details-advertise-blocks
 nepalbishesh.com##.follow-liked
 nepalbishesh.com##.social-media-icon-section
 nepalclicks.com##.sc-ads
-nepalipaisa.com###Scroll > ul
 nepalipaisa.com###hide-mobile
 nepalipaisa.com###popUp
+nepalipaisa.com###Scroll > ul
 nepalipaisa.com###sfAd2
 nepalipaisa.com###sfMaintop > .clearfix.sfInnerwrapper > .clearfix.sfMoreblocks > .sfCol_26
 nepalipaisa.com###sfMenu
@@ -526,12 +606,12 @@ nepalipaisa.com##.show.imagePopupModal.modal
 nepalipaisa.com##.show.modal-backdrop
 nepalipaisa.com##body > np-ads-1 > .np-ads
 nepalipatra.com###blockroadModal
-nepalipatra.com##+js(set-constant, document.body.classList.remove, 'modal-load')
 nepalipatra.com##.modal-content
 nepalipatra.com##.rd-ads
-nepalipatra.com##.show-mb
 nepalipatra.com##.show.fade.modal-backdrop
 nepalipatra.com##.show.modal-load.fade.modal
+nepalipatra.com##.show-mb
+nepalipatra.com##+js(set-constant, document.body.classList.remove, 'modal-load')
 nepalipatra.com##div[class*="modal-backdrop"]
 nepalipatra.com##div[id="myModal"]
 nepalipatro.com.np##.col-lg-9 > .justify-content-center.align-items-center.d-flex
@@ -597,18 +677,13 @@ onlinekhabar.com###ok-box-ad-wrap
 onlinekhabar.com##.emo_sectn
 onlinekhabar.com##.flex-box.colspan9.top__ads
 onlinekhabar.com##.flex-box.tribox-add.colspan3
-onlinekhabar.com##.m-mt-20.mt-40.widget-in-left-content.markets_widget
 onlinekhabar.com##.main_story_sectn.bg__lightgrey-x-2 > .ok__container > .has_side-bar.ok__news--category > .side__add
+onlinekhabar.com##.m-mt-20.mt-40.widget-in-left-content.markets_widget
 onlinekhabar.com##.mmt-60.ok__container > .add__fullwidth
 onlinekhabar.com##.nh_widget_wrap
-onlinekhabar.com##.ok-footer-info
-onlinekhabar.com##.ok-full-widht-adv
-onlinekhabar.com##.ok-post-emoji
-onlinekhabar.com##.ok-samachar-section.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
-onlinekhabar.com##.ok-section-business.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
-onlinekhabar.com##.ok-section-mukhya.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
-onlinekhabar.com##.ok-section-reels.ok-section.okv4-section
-onlinekhabar.com##.ok-site-footer
+onlinekhabar.com##.ok__copyright
+onlinekhabar.com##.ok_roadblock
+onlinekhabar.com##.ok_roadblock > .flex-box
 onlinekhabar.com##.ok18-comment-wrap
 onlinekhabar.com##.ok18-inbetween-ad
 onlinekhabar.com##.ok18-inbetween-ad-2
@@ -617,9 +692,6 @@ onlinekhabar.com##.ok18-inbetween-mobile-ad-2
 onlinekhabar.com##.ok18-m-square-ad
 onlinekhabar.com##.ok18-single-post-content-wrap > .okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
 onlinekhabar.com##.ok18-single-post-content-wrap.main__read--content.colspan3.col > .okam-device-mobile-desktop.single-inbetween-stories.okam-ad-position-wrap
-onlinekhabar.com##.ok__copyright
-onlinekhabar.com##.ok_roadblock
-onlinekhabar.com##.ok_roadblock > .flex-box
 onlinekhabar.com##.okam-ad-position-wrap
 onlinekhabar.com##.okam-device-desktop.carousel
 onlinekhabar.com##.okam-device-desktop.single-after-news-firstphoto.okam-ad-position-wrap > .okam-each-ad
@@ -627,6 +699,14 @@ onlinekhabar.com##.okam-device-desktop.single-sidebar.okam-ad-position-wrap
 onlinekhabar.com##.okam-device-desktop.single-sidebar2.okam-ad-position-wrap
 onlinekhabar.com##.okam-device-desktop.single-top-header.okam-ad-position-wrap
 onlinekhabar.com##.okam-each-ad
+onlinekhabar.com##.ok-footer-info
+onlinekhabar.com##.ok-full-widht-adv
+onlinekhabar.com##.ok-post-emoji
+onlinekhabar.com##.ok-samachar-section.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
+onlinekhabar.com##.ok-section-business.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
+onlinekhabar.com##.ok-section-mukhya.ok-section > .flx-wrp.flx.ok-container > .ok-col-right
+onlinekhabar.com##.ok-section-reels.ok-section.okv4-section
+onlinekhabar.com##.ok-site-footer
 onlinekhabar.com##.owl-stage
 onlinekhabar.com##.site-footer
 onlinekhabar.com##.tribox-add
@@ -635,10 +715,10 @@ onlinekhabar.com##div[class*="-ad"]
 onlinekhabar.com##header#masthead.site-header:nth-of-type(1)
 onlinekhabar.com##section.after-topics.ok-full-widht-adv > .ok-container
 onlinekhabar.com##section.after-topics.ok-full-widht-adv:nth-of-type(1)
+onlinekhabar.com##section.ok__news--sectn.section > .ok__container > .has_side-bar.ok__news--category > .side__add
 onlinekhabar.com##section.ok-full-widht-ad
 onlinekhabar.com##section.ok-full-widht-adv > .ok__container
 onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(6)
-onlinekhabar.com##section.ok__news--sectn.section > .ok__container > .has_side-bar.ok__news--category > .side__add
 onlinenepal.com##.ads
 onlinenepal.com##.uk-first-column.uk-width-auto\@m
 onlinenepal.com##.widget
@@ -656,11 +736,11 @@ osnepal.com##.ads
 osnepal.com##.gap.gap2.section > .container > .row > .mt-4.mt-lg-0.col-lg-4
 osnepal.com##.mt-4.mt-lg-0.col-lg-4
 osnepal.com##div:nth-of-type(4)
-ourbiratnagar.net##+js(set-constant, document.body.classList.remove, 'modal-open')
 ourbiratnagar.net##.av_block
 ourbiratnagar.net##.floating_buttons
 ourbiratnagar.net##.gofollow
 ourbiratnagar.net##.user_poll_block
+ourbiratnagar.net##+js(set-constant, document.body.classList.remove, 'modal-open')
 pagead2.googlesyndication.com
 pahilopost.com##div.uk-container-center.uk-container:nth-of-type(10) > .uk-hidden-small.uk-thumbnail-expand.pahilo-shadow-box > .uk-thumbnail-expand.uk-thumbnail
 pahilopost.com##div.uk-container-center.uk-container:nth-of-type(14) > .uk-hidden-small.uk-thumbnail-expand.pahilo-shadow-box > .uk-thumbnail-expand.uk-thumbnail
@@ -707,8 +787,6 @@ ratopati.com###header-top-block
 ratopati.com###respond
 ratopati.com##*[class*="banner"] [class*="ad"] [id*="popup"]
 ratopati.com##*[class*="placeholder"]
-ratopati.com##+js(set-constant, $.fn.addClass, trueFunc)
-ratopati.com##+js(set-constant, $.fn.removeClass, trueFunc)
 ratopati.com##.adv-item
 ratopati.com##.article-head > .row
 ratopati.com##.article-head > div.col-md-12
@@ -755,6 +833,8 @@ ratopati.com##[href="https://agnimahindra.com/"]
 ratopati.com##[href="https://facebook.com/khukrirumnepal/"]
 ratopati.com##[href="https://nabilbank.com/individual"]
 ratopati.com##[href="https://sarbottamcement.com/"]
+ratopati.com##+js(set-constant, $.fn.addClass, trueFunc)
+ratopati.com##+js(set-constant, $.fn.removeClass, trueFunc)
 ratopati.com##div.detailbannerAd.paraAd.row > .col-md-12
 ratopati.com##div.full-banner-adv:nth-of-type(11)
 ratopati.com##div.full-banner-adv:nth-of-type(13)
@@ -887,7 +967,18 @@ shilapatra.com##.sp-header-wrap > .container > .row
 shilapatra.com##.top-masthead.section > .container > .split-box.bigyaapan-box.row
 shilapatra.com##div.share-custom:nth-of-type(2)
 shilapatra.com##p:nth-of-type(29)
+sidhakura.com###contact
+sidhakura.com##.bigyaapan-section.normal-section.section
+sidhakura.com##.category-row.row > .latest-col.col-3
+sidhakura.com##.col-12.col-md-12.col-sm-12.items > section.p-0.bigyaapan-full.bigyaapan-box.section
 sidhakura.com##.contentsticky-ad-right
+sidhakura.com##.tabs-col.col-3
+sidhakura.com##div.bigyaapan-box.side-items:nth-of-type(2)
+sidhakura.com##p:nth-of-type(11)
+sidhakura.com##p:nth-of-type(20)
+sidhakura.com##p:nth-of-type(21)
+sidhakura.com##section.p-0.bigyaapan-full.bigyaapan-box.section:nth-of-type(5)
+sidhakura.com##section.p-0.bigyaapan-full.bigyaapan-box.section:nth-of-type(7)
 souryaonline.com##.mt40.footer
 souryaonline.com##div.advt_bx:nth-of-type(2)
 spotlightnepal.com##.pl2-l.w-30-l.w-100.fl
@@ -901,9 +992,9 @@ sutranews.com##div.uk-grid-stack.uk-grid.uk-text-center.uk-grid-medium.uk-flex-m
 techlekh.com##div[id$="_ad"]
 techpana.com##*[class*="adalyticsblock"]
 techpana.com##.col-lg-1
+techpana.com##.news__details-titles > .mt-30.newsTech-ads
 techpana.com##.news-header-top
 techpana.com##.newsTech_footer-top-wrapper
-techpana.com##.news__details-titles > .mt-30.newsTech-ads
 techpana.com##.with-gap.auto__layout-ads
 techpana.com##div> .adalyticsblock > .adalytics_ad
 techpana.com##main > .mt-30.newsTech-ads
@@ -936,6 +1027,7 @@ tvannapurna.com##.sgpb-popup-dialog-main-div-wrapper
 tvannapurna.com##.sgpb-popup-overlay.sgpb-popup-overlay-118111.sgpb-theme-1-overlay
 ujyaaloonline.com##.ad
 ujyaaloonline.com##.instagram-media
+urchin.com
 uskhabar.com##.widget_media_image
 vanipress.com##.top__header__ads
 vanipress.com##div.banner__ads
@@ -948,18 +1040,18 @@ whitekhabar.com##.np_ads_palce
 widenepalnews.com##.add-wrap
 worldwidetvnepal.com##.mb20.videos .heading_title_bg.heading_title > .color-red > .block-title [href]
 www-onlinekhabar-com.translate.goog##.nh_widget_wrap
-www-onlinekhabar-com.translate.goog##.ok-footer-info
-www-onlinekhabar-com.translate.goog##.ok18-single-post-content-wrap > div.okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
 www-onlinekhabar-com.translate.goog##.ok_roadblock
 www-onlinekhabar-com.translate.goog##.ok_roadblock > .flex-box
+www-onlinekhabar-com.translate.goog##.ok18-single-post-content-wrap > div.okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
+www-onlinekhabar-com.translate.goog##.ok-footer-info
 yalambartimes.com##.widget
 yanglenews.com##.adertise_wrapper
 yanglenews.com##.total-views-read
 yanglenews.com##.update_sm_thumb
 yanglenews.com##div[id^="pum-"]
 yesnepalnews.com##.box-ads
-yessamachar.com##.td-a-rec-id-custom-spot
 yessamachar.com##.td_spot_img_all
+yessamachar.com##.td-a-rec-id-custom-spot
 yessamachar.com##.tdi_236
 yetikhabar.com##.wp-image-13592
 yetikhabar.com##.wp-image-26751
@@ -1000,9 +1092,9 @@ yugpress.com##.tdi_118
 yugpress.com##.vc_column-inner
 yugyandaily.com###wpdevar_comment_1
 yugyandaily.com##*[class*="pum-"]
-yugyandaily.com##+js(set-constant, document.body.style.overflow, 'auto')
 yugyandaily.com##.add-container.container
 yugyandaily.com##.widget
+yugyandaily.com##+js(set-constant, document.body.style.overflow, 'auto')
 yuwadaily.com##*[class*="__ads"]
 yuwadaily.com##.mb-20.text-center
 
@@ -1442,18 +1534,6 @@ yuwadaily.com##.mb-20.text-center
 ||yuwasandesh.com/*.gif$image
 ||zen1news.com/*.gif$image
 ||zen1news.com/*1718518510-LjUF0.jpg$image
-
-sidhakura.com##p:nth-of-type(21)
-sidhakura.com##p:nth-of-type(20)
-sidhakura.com##p:nth-of-type(11)
-sidhakura.com##.col-12.col-md-12.col-sm-12.items > section.p-0.bigyaapan-full.bigyaapan-box.section
-sidhakura.com##div.bigyaapan-box.side-items:nth-of-type(2)
-sidhakura.com###contact
-sidhakura.com##.bigyaapan-section.normal-section.section
-sidhakura.com##section.p-0.bigyaapan-full.bigyaapan-box.section:nth-of-type(5)
-sidhakura.com##section.p-0.bigyaapan-full.bigyaapan-box.section:nth-of-type(7)
-sidhakura.com##.category-row.row > .latest-col.col-3
-sidhakura.com##.tabs-col.col-3
 
 !#endif
 !#endif
