@@ -170,6 +170,7 @@ adwords.com
 adwords-community.com
 adwordsexpress.com
 analytics.google.com
+analytics.onlinekhabar.com
 aniwave.to##.text-center.mb-4
 annapurnapost.com##.active.custom__modal
 annapurnapost.com##.advertisement
