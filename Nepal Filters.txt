@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Fri May 16 07:43:05 PM +0545 2025
+! Last modified: Mon May 19 08:47:12 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -1310,6 +1310,7 @@ yuwadaily.com##.mb-20.text-center
 ||kantikhabar.com/*.gif$image
 ||kantipath.com/*.gif$image
 ||karobardaily.com/*.gif$image
+||www.karobardaily.com/*.gif$image
 ||karobardaily.com/wp-content/uploads/*/*/*.gif$image
 ||kathmandukhabar.com/*.gif$image
 ||kathmandukhabar.com/uploads/advertisement/
