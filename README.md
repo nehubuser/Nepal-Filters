@@ -8,10 +8,5 @@ To report broken sites, open an [issue](https://github.com/nehubuser/Nepal-Filte
 
 To report new sites with ads open an [issue](https://github.com/nehubuser/Nepal-Filters/issues/new?template=suggest-sites-with-ads-.md) with link of site/s. 
 
-<sub> 🄯 2025. See full Licensing information [here](https://raw.githubusercontent.com/nehubuser/Nepal-Filters/master/LICENSE). </sub> 
 
-
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/nehubuser/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/nehubuser/count.svg) 
