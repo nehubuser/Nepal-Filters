@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Mon May 19 08:47:12 PM +0545 2025
+! Last modified: Wed May 28 04:49:47 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -417,6 +417,14 @@ himalkhabar.com##div.mb-3.mt-3.section:nth-of-type(even) > .container > .full-bi
 himalkhabar.com##div.mb-3.mt-3.section:nth-of-type(odd) > .container > .full-bigyaapan-box
 himalpatra.com##.jft_ads
 himalpost.com##.widget
+himalpress.com##.desktop-view > .home-after-rajniti.gam-ad-position-wrap > .gam-each-ad
+himalpress.com##.shareThis__custom
+himalpress.com##.last-footer
+himalpress.com##div.ad-container:nth-of-type(5)
+himalpress.com##.desktop-view > .home-after-breaking.gam-ad-position-wrap
+himalpress.com##.desktop-view > .home-after-finance.gam-ad-position-wrap
+himalpress.com##.section.bisesh__section > .hp-container > .grid > .column-3
+himalpress.com##.sharepost
 https://c1a6a94262.4a1c2f215f.com/a0bb435b292d4e2a8bd452ae99efb72f.js
 https://ludzpoaxklz.com
 hulaksanchar.com##.adds_menu
