@@ -254,6 +254,7 @@ chotkari.com/*.gif$image
 cinnepal.com##.bsac-float-center
 cinnepal.com##.bsac-image
 cinnepal.com##.widget_better-ads
+https://connect.facebook.net/*
 dainiki.com##.widget
 dainiknepal.com##.sr_bot
 dainiknepal.com##div.advt_bx
@@ -687,7 +688,6 @@ onlinekhabar.com##.emo_sectn
 onlinekhabar.com##.flex-box.colspan9.top__ads
 onlinekhabar.com##.flex-box.tribox-add.colspan3
 onlinekhabar.com##.main_story_sectn.bg__lightgrey-x-2 > .ok__container > .has_side-bar.ok__news--category > .side__add
-onlinekhabar.com##.m-mt-20.mt-40.widget-in-left-content.markets_widget
 onlinekhabar.com##.mmt-60.ok__container > .add__fullwidth
 onlinekhabar.com##.nh_widget_wrap
 onlinekhabar.com##.ok__copyright
@@ -1007,6 +1007,8 @@ techpana.com##.newsTech_footer-top-wrapper
 techpana.com##.with-gap.auto__layout-ads
 techpana.com##div> .adalyticsblock > .adalytics_ad
 techpana.com##main > .mt-30.newsTech-ads
+techpana.com##.show.fade.modal
+techpana.com##.show.fade.modal-backdrop
 telegraphnepal.com##.leftbar
 terabox.com##.coupon-Popup-box
 terabox.com##.en.\+.\{seo-banner-img.seo-banner-img
@@ -1040,7 +1042,6 @@ urchin.com
 uskhabar.com##.widget_media_image
 vanipress.com##.top__header__ads
 vanipress.com##div.banner__ads
-vonlinekhabar.com##.okam-device-desktop.single-sidebar.okam-ad-position-wrap
 waikhari.com##.widget
 washkhabar.com##.widget
 whatthenepal.com##.td-a-rec-id-custom-spot
@@ -1048,11 +1049,6 @@ whitekhabar.com##.advertisement
 whitekhabar.com##.np_ads_palce
 widenepalnews.com##.add-wrap
 worldwidetvnepal.com##.mb20.videos .heading_title_bg.heading_title > .color-red > .block-title [href]
-www-onlinekhabar-com.translate.goog##.nh_widget_wrap
-www-onlinekhabar-com.translate.goog##.ok_roadblock
-www-onlinekhabar-com.translate.goog##.ok_roadblock > .flex-box
-www-onlinekhabar-com.translate.goog##.ok18-single-post-content-wrap > div.okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
-www-onlinekhabar-com.translate.goog##.ok-footer-info
 yalambartimes.com##.widget
 yanglenews.com##.adertise_wrapper
 yanglenews.com##.total-views-read
@@ -1516,7 +1512,6 @@ yuwadaily.com##.mb-20.text-center
 ||whitekhabar.com/*.gif$image
 ||widenepalnews.com/*.gif$image
 ||worldwidetvnepal.com/*.gif$image
-||www.onlinekhabar.com/markets/components/marketOverview$subdocument
 ||yalambartimes.com/*.gif$image
 ||yanglenews.com/*.gif$image
 ||yanglenews.com/media/pum/pum-site-scripts.js
