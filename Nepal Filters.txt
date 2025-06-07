@@ -120,6 +120,8 @@
 24newsfire.com##.wp-image-8281
 2mdn.net
 2mdn-cn.net
+3ghumti.com##div.uk-container:nth-of-type(4)
+3ghumti.com##div.uk-width-1-5\@m:nth-of-type(3)
 3ghumti.com##div.ads
 3ghumti.com##div[style*="width:100%;margin-bottom:10px;"]
 aarthikbazarnews.com##*[class*="no-vigyapan"]
@@ -780,6 +782,7 @@ prasashan.com##section.widget img
 prastakhabar.com##.container > a
 prastakhabar.com##.sticky-row.row > .col-xs-12.col-sm-4.col-md-4 > a
 prastakhabar.com##.top.barbarian
+primetimenepal.com##.active.hide-on-med-and-down.show.qt-ads-slot-flyout
 purbelinews.com##div[class*="ads"]
 purbelinews.com##section[id^="widget_sp_image-"]
 rajdhanidaily.com##.a-10.a-single
@@ -1066,6 +1069,8 @@ yetikhabar.com##.wp-image-13592
 yetikhabar.com##.wp-image-26751
 yobela.com##section.widget
 yohokhabar.com##.widget
+yohokhabar.com##.uk-navbar.uk-visible\@m.top-navigation.uk-navbar-container > .uk-navbar-left
+yohokhabar.com##.uk-divider-icon
 youthofdang.com##.bn-ds-1
 youthofdang.com##.bn-ds-11
 youthofdang.com##.bn-ds-8
@@ -1115,6 +1120,7 @@ yuwadaily.com##.mb-20.text-center
 ||18nepal.com/*.gif$image
 ||24newsfire.com/*.gif$image
 ||3ghumti.com/*.gif$image
+||www.3ghumti.com/wp-content/uploads/2023/12/*g$image
 ||8848newsnepal.com/*.gif$image
 ||aarthikbazarnews.com/*.gif$image
 ||aarthiknews.com/*.gif$image
