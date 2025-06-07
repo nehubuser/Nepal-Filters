@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filterlists 
-! Last modified: Fri May 30 06:05:17 PM +0545 2025
+! Last modified: Sun Jun  8 02:08:09 AM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -554,6 +554,10 @@ missionlumbini.com##.ads
 missionlumbini.com##.share_list
 missionlumbini.com##.uk-first-column.uk-text-center.list-inline-item
 myrepublica.nagariknetwork.com###main-advertisement
+myrepublica.nagariknetwork.com##section.rep-container:nth-of-type(3)
+myrepublica.nagariknetwork.com##.h-full.rounded-sm.pt-\[25\%\].rep-figure
+myrepublica.nagariknetwork.com##.size-full.rep-container
+myrepublica.nagariknetwork.com##.bg-\[\#F5F5F5\].w-full.h-\[60px\]
 mysansar.com##.site-info
 nagariknetwork.com##div[id*="adverts"]
 nagariknews.nagariknetwork.com###adverts12137
@@ -1356,6 +1360,8 @@ yuwadaily.com##.mb-20.text-center
 ||mirmireonline.com/*.gif$image
 ||missionlumbini.com/*.gif$image
 ||mynewsnepal.com/*.gif$image
+||republicajscss.nagariknewscdn.com/img/advertisement/*.gif$image
+||republicaimg.nagariknewscdn.com/shared/web/uploads/media/advertisements/*$image
 ||nagarikkhabar.com/*.gif$image
 ||nagariknews.nagariknetwork.com/*.gif$image
 ||nagarkotnews.com/*.gif$image
