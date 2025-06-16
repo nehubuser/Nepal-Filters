@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Sun Jun 15 11:31:06 AM +0545 2025
+! Last modified: Mon Jun 16 07:31:20 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -152,6 +152,7 @@ aarthiknews.com##section#fullwidth:nth-of-type(8)
 aarthiknews.com##section#fullwidth:nth-of-type(9)
 aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4
 aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4.col-sm-12
+arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(3)
 abhiyandaily.com##.items-center.text-white.text-sm.md\:px-12.px-7.py-2.justify-between.flex-col.md\:flex-row.flex.bg-primary
 abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
 abhiyandaily.com##.pt-5.justify-center.flex.w-full
@@ -325,6 +326,8 @@ ekantipur.com##div.kdaily-high-ad:nth-of-type(even)
 ekantipur.com##div.kdaily-high-ad:nth-of-type(odd)
 ekantipur.com##div.mainContentX-side:nth-of-type(1)
 emountaintv.com##.partners-container
+english.arthakendra.com##.my-10.gap-5.flex-col.flex.row-span-4
+english.arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(2)
 english.himalayatimes.com.np##.right_bottom.modal-list-wrap
 english.himalayatimes.com.np##.show-has-labels
 english.himalayatimes.com.np##[class*="ad-"]
@@ -684,24 +687,17 @@ news24nepal.tv##.textwidget > p
 newsnepalhub.com##.footer-logo-address.footer-box > .img-responsive
 newsnepalhub.com##div.banner-add
 newspolar.com##.widget
-
-! needs cleanup
 next.sharehubnepal.com##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.backdrop-blur-sm.bg-opacity-40.bg-black\/20.z-50.inset-0.fixed
 next.sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-full.grid.z-50.top-\[50\%\].left-\[50\%\].fixed
 next.sharehubnepal.com##.z-50.left-4.top-4.fixed
-
-! needs cleanup
 sharehubnepal.com##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.backdrop-blur-sm.bg-opacity-40.bg-black\/20.z-50.inset-0.fixed
 sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-full.grid.z-50.top-\[50\%\].left-\[50\%\].fixed
-
-! needs cleanup
 next.sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-full.grid.z-50.top-\[50\%\].left-\[50\%\].fixed
 next.sharehubnepal.com##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.backdrop-blur-sm.bg-opacity-40.bg-black\/20.z-50.inset-0.fixed
 next.sharehubnepal.com##.col-span-12.hidden.lg\:block.lg\:col-span-5 > .dark\:scrollbar-thin-dark.scrollbar-thin.overflow-auto.top-16.sticky.gap-4.xl\:grid-cols-1.\32 xl\:grid-cols-1.lg\:grid-cols-1.md\:grid-cols-2.grid > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 next.sharehubnepal.com##.my-4 > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 next.sharehubnepal.com##.mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 next.sharehubnepal.com##.z-50.left-4.top-4.fixed
-
 nishankhatri.com.np##.theme1.cmbfbuthzktthfvlotfdedkpczelpchnwfhpzldtnmrqhvskrodilfko > .nvbpblrajnxqfoqnrpcgzquxezujllprvzhyafdcwgptmlrkeldxdzilfko
 omkartimes.com##.ads-box
 omkartimes.com##.sn-ad
