@@ -677,6 +677,7 @@ nepalrastriyadainik.com##div.generic-ad
 nepalviews.com##*[class*="gam-nvad"]
 nepalviews.com##.sticky__banner
 neplays.com##.pbottom--30.ptop--30.col-md-4.main--sidebar
+nepsealpha.com##.column_1_1.column > .bootstrap4-iso
 nepsealpha.com##.border-danger.border.text-center.justify-content-center.d-flex.card
 nepsealpha.com##.border-info.border.text-center.justify-content-center.d-flex.card
 nepsealpha.com##.clearfix.header
@@ -973,8 +974,12 @@ setopati.com##div.insert-ad:nth-of-type(1)
 setopati.com##div.insert-ad:nth-of-type(2)
 setopati.com##div[class*="bigyaapan"]
 setopati.com##p:nth-of-type(16)
+setopati.com##p:nth-of-type(6)
 sflix.to##[src="https://valueclick.cc/embed/news?theme=dark&source=sflix.to"]
 sflix.to##section.block_area_home.block_area:nth-of-type(1)
+sharehubnepal.com##.col-span-12.hidden.lg\:block.lg\:col-span-5 > .dark\:scrollbar-thin-dark.scrollbar-thin.overflow-auto.top-16.sticky.gap-4.xl\:grid-cols-1.\32 xl\:grid-cols-1.lg\:grid-cols-1.md\:grid-cols-2.grid > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
+sharehubnepal.com##.my-4 > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
+sharehubnepal.com##.dark\:text-gray-400.text-gray-300.bg-primary-400
 sharesansar.com##.advsTrack
 sharesansar.com##.margin-top-10.social-share
 sharesansar.com##.mm-top.margin-top-bottom-10
