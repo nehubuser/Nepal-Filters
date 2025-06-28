@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Fri Jun 20 05:45:30 PM +0545 2025
+! Last modified: Sat Jun 28 10:30:18 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -126,32 +126,7 @@
 3ghumti.com##div[style*="width:100%;margin-bottom:10px;"]
 aarthikbazarnews.com##*[class*="no-vigyapan"]
 aarthikbazarnews.com##.no-news-details-post-status
-aarthiknews.com###banijya > .container > .row > .col-lg-3.col-md-4
-aarthiknews.com###blockAds
-aarthiknews.com##.container > .row > .col-md-3
-aarthiknews.com##.css-13htvlu.chakra-stack
-aarthiknews.com##.css-1brohqp.chakra-container.chakra-stack
-aarthiknews.com##.css-ql1g0w
-aarthiknews.com##.css-u32h8u > .css-18tx4is
-aarthiknews.com##.css-x431zj.chakra-stack
-aarthiknews.com##.fullwidth
-aarthiknews.com##.show.fade.modal
-aarthiknews.com##.show.fade.modal-backdrop
-aarthiknews.com##div#newsListBlock > .container > .row > .col-lg-3.col-md-4.col-sm-12
-aarthiknews.com##div#newsListBlock > .container > .row > .col-lg-3.col-md-4.col-sm-12 > .blocks
-aarthiknews.com##div.col-md-6.col-lg-3:nth-of-type(1)
-aarthiknews.com##div.col-md-6.col-lg-3:nth-of-type(2)
-aarthiknews.com##div.col-md-6.col-lg-3:nth-of-type(3)
-aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(1)
-aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(5)
-aarthiknews.com##div.css-2kv2ys.chakra-stack:nth-of-type(8)
-aarthiknews.com##footer
-aarthiknews.com##header
-aarthiknews.com##section#fullwidth:nth-of-type(4)
-aarthiknews.com##section#fullwidth:nth-of-type(8)
-aarthiknews.com##section#fullwidth:nth-of-type(9)
-aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4
-aarthiknews.com##section#NewsColorList > .container > .row > .col-lg-3.col-md-4.col-sm-12
+
 arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(3)
 abhiyandaily.com##.items-center.text-white.text-sm.md\:px-12.px-7.py-2.justify-between.flex-col.md\:flex-row.flex.bg-primary
 abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
@@ -438,7 +413,7 @@ hulaksanchar.com##.small-add
 iconkhabar.com##.gofollow
 iconkhabar.com##.wpra-rendered.wpra-plugin-container.wpra-reactions-wrap
 imagekhabar.com##div.uk-grid-stack.uk-grid-match.uk-grid:nth-of-type(2)
-images.merolagani.com//content/bigyapan/*
+
 jagarannews.com##.widget
 janaboli.com##.widget
 janachasotimes.com##.jft_ads
@@ -530,28 +505,7 @@ malikatoday.com##.float-right
 marketingplatform.google.com
 mediadabali.com##.ads
 merokhel.com##.widget_media_image
-merolagani.com###ctl00_AdvertisementS1_divGeneral > .col-lg-12
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB11_divAdvertisement
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB4_divGeneral
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB5_divAdvertisement
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementB6_divAdvertisement
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementC1_divGeneral > .col-lg-12
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementC2_divGeneral > .col-lg-12
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementC4_divGeneral > .col-lg-12
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementH2_divGeneral > .col-lg-12
-merolagani.com###ctl00_ContentPlaceHolder1_AdvertisementH5_divGeneral > .col-lg-12
-merolagani.com###offer_modal
-merolagani.com##.container > .visible-desktop-ad
-merolagani.com##.footer
-merolagani.com##.in.modal-backdrop
-merolagani.com##.logobar
-merolagani.com##.news-inner-ads > .row
-merolagani.com##.popup
-merolagani.com##.topbar
-merolagani.com##div.col-md-3 > .visible-desktop-ad
-merolagani.com##div.col-md-9 > .row
-merolagani.com##div.col-xs-12.col-sm-4.col-md-4:nth-of-type(2)
-merolagani.com##div.visible-desktop-ad.col-md-3.col-sm-12:nth-of-type(2)
+
 meronews.com##.cont_break_ads
 meronews.com##div.y
 mirmireonline.com##.widget
@@ -1142,10 +1096,7 @@ yuwadaily.com##.mb-20.text-center
 ||www.3ghumti.com/wp-content/uploads/2023/12/*g$image
 ||8848newsnepal.com/*.gif$image
 ||aarthikbazarnews.com/*.gif$image
-||aarthiknews.com/*.gif$image
-||aarthiknews.com/uploads/media/*.gif$image
-||aarthiknews.com/uploads/media/06-Aarthik_20210315143832.com_350X150$image
-||aarthiknews.com/uploads/media/AAA_20210813084312.jpg$image
+
 ||abcnepal.tv/*.gif$image
 ||abhiyandaily.com/*.gif$image
 ||abpcrimenews.com/*.gif$image
@@ -1306,10 +1257,7 @@ yuwadaily.com##.mb-20.text-center
 ||i0.wp.com/yesnepalnews.com/*.webp$image
 ||iconkhabar.com/*.gif$image
 ||imagekhabar.com/*/*.gif$image
-||images.merolagani.com/*.gif$image
-||images.merolagani.com//content/bigyapan$image
-||images.merolagani.com//content/bigyapan/*$image
-||images.merolagani.com/content/bigyapan/*$image
+
 ||images.nagariknewscdn.com/*.gif$image
 ||img.baahrakhari.de/uploads/bigyaapan/*$image
 ||img.himalkhabar.de/uploads/bigyaapan/*$image
@@ -1380,7 +1328,7 @@ yuwadaily.com##.mb-20.text-center
 ||malikatoday.com/*.gif$image
 ||mediadabali.com/*.gif$image
 ||merokhel.com/*.gif$image
-||merolagani.com/*.gif$image
+
 ||meronews.com/*.gif$image
 ||mirmireonline.com/*.gif$image
 ||missionlumbini.com/*.gif$image
