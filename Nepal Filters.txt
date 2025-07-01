@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Sat Jun 28 10:30:18 PM +0545 2025
+! Last modified: Tue Jul  1 04:53:54 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -126,7 +126,10 @@
 3ghumti.com##div[style*="width:100%;margin-bottom:10px;"]
 aarthikbazarnews.com##*[class*="no-vigyapan"]
 aarthikbazarnews.com##.no-news-details-post-status
-
+aarthiknews.com##.breaking__news > .row > .col-lg-3
+aarthiknews.com##.custom-container > .row > .col-lg-3
+aarthiknews.com##.education__news > .row > .col-lg-3
+aarthiknews.com##.bank__news > .row > .col-lg-3
 arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(3)
 abhiyandaily.com##.items-center.text-white.text-sm.md\:px-12.px-7.py-2.justify-between.flex-col.md\:flex-row.flex.bg-primary
 abhiyandaily.com##.min-h-\[90vh\].h-fit.gap-7.z-20.w-full.sticky.flex-col.lg\:flex > .h-full.py-3.px-4.gap-5.flex-col.flex > .gap-4.h-fit.w-full.flex-col.flex
@@ -413,7 +416,6 @@ hulaksanchar.com##.small-add
 iconkhabar.com##.gofollow
 iconkhabar.com##.wpra-rendered.wpra-plugin-container.wpra-reactions-wrap
 imagekhabar.com##div.uk-grid-stack.uk-grid-match.uk-grid:nth-of-type(2)
-
 jagarannews.com##.widget
 janaboli.com##.widget
 janachasotimes.com##.jft_ads
@@ -505,7 +507,16 @@ malikatoday.com##.float-right
 marketingplatform.google.com
 mediadabali.com##.ads
 merokhel.com##.widget_media_image
-
+merolagani.com##div.center-block.googleAds:nth-of-type(5)
+merolagani.com##.center-block.googleAds
+merolagani.com###newsLikeCount
+merolagani.com###newsShareCount
+merolagani.com##div.col-md-3 > div.visible-desktop-ad
+merolagani.com###offer_modal
+merolagani.com##.in.modal-backdrop
+merolagani.com##.topbar
+merolagani.com##.footer
+merolagani.com##.ear-panel.visible-desktop-ad
 meronews.com##.cont_break_ads
 meronews.com##div.y
 mirmireonline.com##.widget
