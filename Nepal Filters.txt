@@ -517,6 +517,7 @@ merolagani.com##.in.modal-backdrop
 merolagani.com##.topbar
 merolagani.com##.footer
 merolagani.com##.ear-panel.visible-desktop-ad
+merolagani.com##.news-inner-ads
 meronews.com##.cont_break_ads
 meronews.com##div.y
 mirmireonline.com##.widget
@@ -1107,7 +1108,6 @@ yuwadaily.com##.mb-20.text-center
 ||www.3ghumti.com/wp-content/uploads/2023/12/*g$image
 ||8848newsnepal.com/*.gif$image
 ||aarthikbazarnews.com/*.gif$image
-
 ||abcnepal.tv/*.gif$image
 ||abhiyandaily.com/*.gif$image
 ||abpcrimenews.com/*.gif$image
@@ -1268,7 +1268,6 @@ yuwadaily.com##.mb-20.text-center
 ||i0.wp.com/yesnepalnews.com/*.webp$image
 ||iconkhabar.com/*.gif$image
 ||imagekhabar.com/*/*.gif$image
-
 ||images.nagariknewscdn.com/*.gif$image
 ||img.baahrakhari.de/uploads/bigyaapan/*$image
 ||img.himalkhabar.de/uploads/bigyaapan/*$image
