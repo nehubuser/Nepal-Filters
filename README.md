@@ -9,4 +9,4 @@ To report broken sites, open an [issue](https://github.com/nehubuser/Nepal-Filte
 To report new sites with ads open an [issue](https://github.com/nehubuser/Nepal-Filters/issues/new?template=suggest-sites-with-ads-.md) with link/s of site/s. 
 
 
-![Visitor Count](https://profile-counter.glitch.me/nehubuser/count.svg) 
+![](https://komarev.com/ghpvc/?username=nehubuser&style=flat-square&base=85)
