@@ -6,7 +6,7 @@ Click to [**subscribe**](https://subscribe.adblockplus.org/?location=https://raw
 
 To report broken sites, open an [issue](https://github.com/nehubuser/Nepal-Filters/issues/new?template=broken-site-report.md) with details. 
 
-To report new sites with ads open an [issue](https://github.com/nehubuser/Nepal-Filters/issues/new?template=suggest-sites-with-ads-.md)
+To report new sites open an [issue](https://github.com/nehubuser/Nepal-Filters/issues/new?template=suggest-sites-with-ads-.md).
 
 
 ![](https://komarev.com/ghpvc/?username=nehubuser&style=flat-square&base=85)
