@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Thu Jul  3 10:37:08 PM +0545 2025
+! Last modified: Sun Jul 13 04:45:18 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -947,6 +947,8 @@ sflix.to##section.block_area_home.block_area:nth-of-type(1)
 sharehubnepal.com##.col-span-12.hidden.lg\:block.lg\:col-span-5 > .dark\:scrollbar-thin-dark.scrollbar-thin.overflow-auto.top-16.sticky.gap-4.xl\:grid-cols-1.\32 xl\:grid-cols-1.lg\:grid-cols-1.md\:grid-cols-2.grid > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 sharehubnepal.com##.my-4 > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 sharehubnepal.com##.dark\:text-gray-400.text-gray-300.bg-primary-400
+next.sharehubnepal.com##.z-\[60\].bg-opacity-50.bg-black.justify-center.items-center.flex.h-full.w-full.left-0.top-0.fixed
+sharehubnepal.com##.z-\[60\].bg-opacity-50.bg-black.justify-center.items-center.flex.h-full.w-full.left-0.top-0.fixed
 sharesansar.com##.advsTrack
 sharesansar.com##.margin-top-10.social-share
 sharesansar.com##.mm-top.margin-top-bottom-10
