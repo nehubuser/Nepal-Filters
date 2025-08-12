@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Wed Jul 30 04:10:37 PM +0545 2025
+! Last modified: Tue Aug 12 07:35:46 PM +0545 2025
 ! Expires: 10 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -236,6 +236,12 @@ cinnepal.com##.bsac-float-center
 cinnepal.com##.bsac-image
 cinnepal.com##.widget_better-ads
 https://connect.facebook.net/*
+www.corporatenepal.com##.category-collage > .adver
+www.corporatenepal.com##section.section:nth-of-type(11)
+www.corporatenepal.com##section.section > .adver
+www.corporatenepal.com##.sticky-sidebar
+www.corporatenepal.com##body > .adver
+www.corporatenepal.com##section.mt-15.mb-15:nth-of-type(1)
 dainiki.com##.widget
 dainiknepal.com##.sr_bot
 dainiknepal.com##div.advt_bx
