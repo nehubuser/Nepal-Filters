@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Sat Dec 13 05:48:27 PM +0545 2025
+! Last modified: Sat Dec 13 11:18:27 PM +0545 2025
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -28,6 +28,17 @@
 
 ! *** General element hiding rules ***
 
+##.ad-banner
+##.advertisement
+##.sponsored
+##.promo-box
+##.popup-ad
+##.overlay-ad
+##div[id^="ad-"]
+##div[class^="ad-"]
+##div[id*="advert"]
+##div[class*="advert"]
+##.cookie-consent ~ * (optional, hide if annoying)
 ##amp-ad
 ##amp-embed.ad_cnt
 ##amp-sticky-ad
@@ -154,12 +165,6 @@
 ||*/*/ads-*.js
 
 ! *** URL filters ***
-
-! Sep 12, 2025 https://ekantipur.com
-ekantipur.com##p:nth-of-type(2)
-ekantipur.com##p:nth-of-type(4)
-! Sep 17, 2025 https://ukeraa.com
-ukeraa.com##.active.modal-container
 
 24newsfire.com##.wp-image-8281
 2mdn.net
@@ -359,6 +364,8 @@ ekagaj.com##.wrapper-box
 ekagaj.com##div.col-lg-3 > aside > .wrapper-box
 ekagaj.com##div.pb-25.row:nth-of-type(2)
 ekagaj.com##div.sidebar > aside > .wrapper-box
+ekantipur.com##p:nth-of-type(2)
+ekantipur.com##p:nth-of-type(4)
 ekantipur.com###browser-message
 ekantipur.com###div-gpt-ad-1552381850802-0
 ekantipur.com###roadblock-ad
@@ -1159,6 +1166,7 @@ tvannapurna.com##.sgpb-popup-overlay.sgpb-popup-overlay-118111.sgpb-theme-1-over
 ujyaaloonline.com##.ad
 ujyaaloonline.com##.instagram-media
 urchin.com
+ukeraa.com##.active.modal-container
 uskhabar.com##.widget_media_image
 vanipress.com##.top__header__ads
 vanipress.com##div.banner__ads
@@ -1472,7 +1480,6 @@ yuwadaily.com##.mb-20.text-center
 ||malikatoday.com/*.gif$image
 ||mediadabali.com/*.gif$image
 ||merokhel.com/*.gif$image
-
 ||meronews.com/*.gif$image
 ||mirmireonline.com/*.gif$image
 ||missionlumbini.com/*.gif$image
