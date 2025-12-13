@@ -115,6 +115,44 @@
 .gif|$domain=nagariknews.nagariknetwork.com,image
 .gif|$domain=nagariknewscdn.com,image
 
+! Common ad / tracker networks
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||pagead2.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||adservice.google.com^
+||google-analytics.com^
+||stats.g.doubleclick.net^
+||adroll.com^
+||adsrvr.org^
+||adsafeprotected.com^
+||rubiconproject.com^
+||openx.net^
+||criteo.com^
+||taboola.com^
+||outbrain.com^
+||revcontent.com^
+||mgid.com^
+||propellerads.com^
+||propellerads.com^
+||advertising.com^
+||adservice.*^
+||ads.*.com^
+||adsvendor.*^
+||trk.*.com^
+
+! Block common ad scripts often injected in pages (restrict to known hosts)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script
+||partner.googleadservices.com^$script
+||cdn.taboola.com^$script
+||cdn.outbrain.com^$script
+
+! Prevent iframe-based ad loads which include ad-strings
+||*/ads/*.js
+||*/ads/*.php
+||*/*/ads-*.js
+
 ! *** URL filters ***
 
 ! Sep 12, 2025 https://ekantipur.com
@@ -635,22 +673,35 @@ nepalbishesh.com##.details-advertise-blocks
 nepalbishesh.com##.follow-liked
 nepalbishesh.com##.social-media-icon-section
 nepalclicks.com##.sc-ads
-nepalipaisa.com###hide-mobile
-nepalipaisa.com###popUp
-nepalipaisa.com###Scroll > ul
-nepalipaisa.com###sfAd2
-nepalipaisa.com###sfMaintop > .clearfix.sfInnerwrapper > .clearfix.sfMoreblocks > .sfCol_26
-nepalipaisa.com###sfMenu
-nepalipaisa.com##.divReply
-nepalipaisa.com##.footer_section.clearfix.sfOuterwrapper
-nepalipaisa.com##.footer_section_btm.clearfix.sfOuterwrapper
-nepalipaisa.com##.fuller.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-12 > .ads-wrap [href] > .lazy
-nepalipaisa.com##.fuller.col-xs-12.col-sm-12.col-md-12.col-lg-2.col-xl-2
-nepalipaisa.com##.fuller.col-xs-12.col-sm-12.col-md-12.col-lg-3.col-xl-3
-nepalipaisa.com##.sfMiddletop > .clearfix.sfMoreblocks > .sfCol_100
-nepalipaisa.com##.show.imagePopupModal.modal
-nepalipaisa.com##.show.modal-backdrop
-nepalipaisa.com##body > np-ads-1 > .np-ads
+nepalipaisa.com##.banner-ad
+nepalipaisa.com##.post__ad
+nepalipaisa.com##iframe[src*="ads"]
+nepalipaisa.com##+js(abort-current-inline-script.js, adsbygoogle)
+nepalipaisa.com##+js(abort-current-inline-script.js, adsense)
+nepalipaisa.com##+js(abort-current-inline-script.js, googlesyndication)
+nepalipaisa.com##a[href*="sponsored"]
+nepalipaisa.com##a[href*="/sponsor"]
+nepalipaisa.com##a[href*="affiliates"]
+nepalipaisa.com##.widget--sponsored
+nepalipaisa.com##.widget-sponsored
+nepalipaisa.com##.ad
+nepalipaisa.com##.ads
+nepalipaisa.com##.advert
+nepalipaisa.com##.advertisement
+nepalipaisa.com##.banner-ad
+nepalipaisa.com##.ad-wrapper
+nepalipaisa.com##.ad-container
+nepalipaisa.com##.sponsored
+nepalipaisa.com##.sponsor
+nepalipaisa.com##.sidebar-ad
+nepalipaisa.com##.post__ad
+nepalipaisa.com##.article__ad
+nepalipaisa.com##div[class*="ad-"]
+nepalipaisa.com##div[class*="advert"]
+nepalipaisa.com##div[class*="sponsor"]
+nepalipaisa.com##iframe[src*="ads"]
+nepalipaisa.com##iframe[src*="doubleclick"]
+nepalipaisa.com##iframe[src*="googlesyndication"]
 nepalipatra.com###blockroadModal
 nepalipatra.com##.modal-content
 nepalipatra.com##.rd-ads
@@ -1445,6 +1496,10 @@ yuwadaily.com##.mb-20.text-center
 ||nepalhomes.com/*.html$subdocument
 ||nepalhomes.com/api/property/type/featured_property/new.html$subdocument
 ||nepalipaisa.com/Modules/Advertisement/AdvertisementSlot/*$image
+||nepalipaisa.com/*banner*
+||nepalipaisa.com/*advert*
+||nepalipaisa.com/*sponsored*
+||nepalipaisa.com/*affiliat*
 ||nepalipatra.ap-south-1.linodeobjects.com/*.gif$image
 ||nepalipatra.com/*.gif$image
 ||nepalipatra.com/storage/advertisements/*$image
