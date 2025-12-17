@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Sat Dec 13 11:18:27 PM +0545 2025
+! Last modified: Wed Dec 17 09:36:16 PM +0545 2025
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -255,6 +255,8 @@ baahrakhari.com##.cube-boxs
 baahrakhari.com##.imagebox
 baahrakhari.com##.modal_content
 baahrakhari.com##.modalbox
+baahrakhari.com##[href="https://baahrakhari.com/detail/471460"] > .article-img.mb-3 > .lazyloaded.w-100
+baahrakhari.com##div.side-bigyaapan.items:nth-of-type(5)
 baghpailanews.com##.adv-box-wrap
 baghpailanews.com##.advertise
 bajarkochirfar.com##.col-md-12.col-12.col-lg-9
@@ -437,6 +439,7 @@ gadgetbytenepal.com##div[id*="_ad"]
 gadgetbytenepal.com##img[alt*="Ad"]
 gadgetsinnepal.com.np##.td_spot_img_all > .lazyloaded.entered
 gadgetsinnepal.com.np##.td-pb-span8.tdc-column.vc_column_container.wpb_column.tdi_54.vc_column
+gadgetbytenepal.com##.gap-10.flex-col.min-h-\[99\%\].flex > div > .bg-background.rounded-xl.h-\[350px\]
 ghatanarabichar.com##div.wrap:nth-of-type(4)
 goalnepal.com###wrapper > .adbox.section
 goalnepal.com##*[class*="adbox"]
@@ -1366,6 +1369,7 @@ yuwadaily.com##.mb-20.text-center
 ||farakpatra.com/*.gif$image
 ||filmykhabar.com/*.gif$image
 ||ghatanarabichar.com/*.gif$image
+||gadgetbytenepal.com/images/ads/*$image
 ||goalnepal.com/*.gif$image
 ||goalnepal.com/uploads/banners/*$image
 ||googletagmanager.com/gtag/js?id=G-YS9CDL8BW1$script,domain=ukaalo.com
