@@ -778,6 +778,8 @@ www.nepalviews.com##p:nth-of-type(18)
 www.nepalviews.com##li:nth-of-type(10)
 www.nepalviews.com##li:nth-of-type(9)
 www.nepalviews.com##li:nth-of-type(8)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(2)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(1)
 neplays.com##.pbottom--30.ptop--30.col-md-4.main--sidebar
 nepsealpha.com##.border-danger.border.text-center.justify-content-center.d-flex.card
 nepsealpha.com##.border-info.border.text-center.justify-content-center.d-flex.card
