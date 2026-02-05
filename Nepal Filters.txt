@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Wed Dec 17 09:36:16 PM +0545 2025
+! Last modified: Thu Feb  5 08:18:29 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -764,6 +764,20 @@ nepalrastriyadainik.com##[class*="sgpb-popup"]
 nepalrastriyadainik.com##div.generic-ad
 nepalviews.com##*[class*="gam-nvad"]
 nepalviews.com##.sticky__banner
+next.sharehubnepal.com##.top-40.sticky > .mb-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
+next.sharehubnepal.com##.md\:block.hidden.space-y-6
+www.nepalviews.com##.news-landing-page > .nv-promo-placeholder.container
+www.nepalviews.com##.recent-news-list.content-list .container > .desktop-mode.banner-promo
+www.nepalviews.com##.inside-content-ad.container
+www.nepalviews.com##div.desktop-mode.banner-promo:nth-of-type(2)
+www.nepalviews.com##div.desktop-mode.banner-promo:nth-of-type(3)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(8)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(9)
+www.nepalviews.com##p:nth-of-type(17)
+www.nepalviews.com##p:nth-of-type(18)
+www.nepalviews.com##li:nth-of-type(10)
+www.nepalviews.com##li:nth-of-type(9)
+www.nepalviews.com##li:nth-of-type(8)
 neplays.com##.pbottom--30.ptop--30.col-md-4.main--sidebar
 nepsealpha.com##.border-danger.border.text-center.justify-content-center.d-flex.card
 nepsealpha.com##.border-info.border.text-center.justify-content-center.d-flex.card
