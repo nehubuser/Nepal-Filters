@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Thu Feb  5 08:18:29 PM +0545 2026
+! Last modified: Wed Feb 25 03:43:43 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -300,6 +300,23 @@ bizshala.com##.justify-content-lg-end.justify-content-start.d-flex.col-lg-6.col-
 bizshala.com##.pro.news-sidebar.conent-block > .social-share-style-1
 bizshala.com##.roadblock-ad
 blog.shresthasushil.info.np##.section.footer
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_65.vc_row_inner
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_107.vc_row_inner
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_117.vc_row_inner
+businesspana.com##.td_block_template_1.tdi_61.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com###tdi_81
+businesspana.com##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_112.vc_column
+businesspana.com##.td-pb-row.wpb_row.tdi_117.vc_row
+businesspana.com##.td_block_template_1.tdi_150.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com##.td-pb-span3.tdc-column.vc_column_container.wpb_column.tdi_294.vc_column
+businesspana.com##.td-pb-span6.tdc-inner-column.vc_column_container.wpb_column.tdi_248.vc_column_inner
+businesspana.com##.td_block_template_1.tdi_221.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com###tdi_202
+businesspana.com##.td-pb-span6.tdc-inner-column.vc_column_container.wpb_column.tdi_200.vc_column_inner
+businesspana.com##.td_block_template_1.tdi_178.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_80.vc_row_inner
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_86.vc_row_inner
+businesspana.com##.td_block_template_1.tdi_101.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
 celebritynepal.com##.vce-ad-container
 celebritynepal.com##[id*="media_image"]
 chakrapath.com##app-ad-control-header
