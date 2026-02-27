@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Wed Feb 25 03:43:43 PM +0545 2026
+! Last modified: Fri Feb 27 10:32:00 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -419,6 +419,9 @@ ekantipur.com##div.kdaily-high-ad
 ekantipur.com##div.kdaily-high-ad:nth-of-type(even)
 ekantipur.com##div.kdaily-high-ad:nth-of-type(odd)
 ekantipur.com##div.mainContentX-side:nth-of-type(1)
+ekantipur.com##.spo-wrapper, .spo-section, .banner_spo, div[class*="spo-section"], div[class*="banner_spo"]
+ekantipur.com##.header-top-spo, .desktop-top-spo, .top-spo-wrapper
+ekantipur.com##ins.adsbygoogle, iframe[src*="doubleclick"], iframe[src*="ads"], div[data-ad], div[id*="ad-"][id*="header"]
 emountaintv.com##.partners-container
 english.arthakendra.com##.my-10.gap-5.flex-col.flex.row-span-4
 english.arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(2)
