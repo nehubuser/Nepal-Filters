@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Fri Feb 27 10:32:00 PM +0545 2026
+! Last modified: Wed Mar 11 12:40:58 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -317,6 +317,27 @@ businesspana.com##.td_block_template_1.tdi_178.td-a-rec-img.td-a-rec-id-custom-s
 businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_80.vc_row_inner
 businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_86.vc_row_inner
 businesspana.com##.td_block_template_1.tdi_101.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com##.td_block_template_1.tdi_60.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_101.vc_column > .wpb_wrapper
+businesspana.com##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_108.vc_column
+businesspana.com##.td-pb-row.wpb_row.tdi_79.vc_row
+businesspana.com##.td-pb-row.wpb_row.tdi_112.vc_row
+businesspana.com###tdi_169
+businesspana.com##.td-pb-span6.tdc-inner-column.vc_column_container.wpb_column.tdi_195.vc_column_inner
+businesspana.com##.td_block_template_1.tdi_215.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com##.td-pb-span6.tdc-inner-column.vc_column_container.wpb_column.tdi_242.vc_column_inner
+businesspana.com##.td-pb-span3.tdc-column.vc_column_container.wpb_column.tdi_288.vc_column
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_64.vc_row_inner
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_106.vc_row_inner
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_116.vc_row_inner
+businesspana.com##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_85.vc_row_inner
+businesspana.com##.td_block_template_1.tdi_100.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com##.td_block_template_1.td-pb-border-top.tdi_101.tdm_block_inline_text.td_block_wrap.tdm_block
+businesspana.com##.td_block_template_1.tdi_81.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com###tdi_117
+businesspana.com##.td_block_template_1.tdi_136.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+businesspana.com###tdi_187
+businesspana.com###tdi_56
 celebritynepal.com##.vce-ad-container
 celebritynepal.com##[id*="media_image"]
 chakrapath.com##app-ad-control-header
@@ -383,6 +404,9 @@ ekagaj.com##.wrapper-box
 ekagaj.com##div.col-lg-3 > aside > .wrapper-box
 ekagaj.com##div.pb-25.row:nth-of-type(2)
 ekagaj.com##div.sidebar > aside > .wrapper-box
+ekantipur.com##.spo-wrapper, .spo-section, .banner_spo, div[class*="spo-section"], div[class*="banner_spo"]
+ekantipur.com##.header-top-spo, .desktop-top-spo, .top-spo-wrapper
+ekantipur.com##ins.adsbygoogle, iframe[src*="doubleclick"], iframe[src*="ads"], div[data-ad], div[id*="ad-"][id*="header"]
 ekantipur.com##p:nth-of-type(2)
 ekantipur.com##p:nth-of-type(4)
 ekantipur.com###browser-message
@@ -1114,6 +1138,7 @@ sharehubnepal.com##.dark\:text-gray-400.text-gray-300.bg-primary-400
 sharehubnepal.com##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.backdrop-blur-sm.bg-opacity-40.bg-black\/20.z-50.inset-0.fixed
 sharehubnepal.com##.my-4 > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-full.grid.z-50.top-\[50\%\].left-\[50\%\].fixed
+sharehubnepal.com##.top-40.sticky > .mb-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 sharehubnepal.com##.z-\[60\].bg-opacity-50.bg-black.justify-center.items-center.flex.h-full.w-full.left-0.top-0.fixed
 sharesansar.com##.advsTrack
 sharesansar.com##.margin-top-10.social-share
