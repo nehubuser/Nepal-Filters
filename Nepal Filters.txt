@@ -387,6 +387,9 @@ ekantipur.com##.paywall-overlay
 ekantipur.com##.paywall-container
 ekantipur.com##.roadblock-header
 ekantipur.com##.roadblock-image
+ekantipur.com##.show.custom-modal.fade.modal
+ekantipur.com##.show.fade.modal-backdrop
+ekantipur.com###kanti-ai-chat-widget-root
 emountaintv.com##.partners-container
 english.arthakendra.com##.my-10.gap-5.flex-col.flex.row-span-4
 english.arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(2)
@@ -418,9 +421,9 @@ gadgetbytenepal.com##.disable-lazyload
 gadgetbytenepal.com##.wppopups-whole
 gadgetbytenepal.com##div[id*="_ad"]
 gadgetbytenepal.com##img[alt*="Ad"]
+gadgetbytenepal.com##.gap-10.flex-col.min-h-\[99\%\].flex > div > .bg-background.rounded-xl.h-\[350px\]
 gadgetsinnepal.com.np##.td_spot_img_all > .lazyloaded.entered
 gadgetsinnepal.com.np##.td-pb-span8.tdc-column.vc_column_container.wpb_column.tdi_54.vc_column
-gadgetbytenepal.com##.gap-10.flex-col.min-h-\[99\%\].flex > div > .bg-background.rounded-xl.h-\[350px\]
 ghatanarabichar.com##div.wrap:nth-of-type(4)
 goalnepal.com###wrapper > .adbox.section
 goalnepal.com##*[class*="adbox"]
@@ -631,8 +634,10 @@ nagariknews.nagariknetwork.com##.subscriber-content-check > .row
 nagariknews.nagariknetwork.com##.text-danger.text-center.font-size-14.font-bold
 nagariknews.nagariknetwork.com##.view-in-app
 nagariknews.nagariknetwork.com##[id^="adverts"]
-nagariknews.nagariknetwork.com##.roadblock
 nagariknews.nagariknetwork.com##.modal-backdrop
+nagariknews.nagariknetwork.com##.roadblock
+nagariknews.nagariknetwork.com##.show.fade.modal-backdrop
+nagariknews.nagariknetwork.com##.show.roadblock-modal-bg.roadblock.fade.modal
 namastetimes.com###fb-comments
 narayanionline.com##.col-lg-3.col-md-4
 narayanionline.com##.col-lg-9.col-md-8 > .no-vigyapan-section
@@ -738,22 +743,6 @@ nepalrastriyadainik.com##[class*="sgpb-popup"]
 nepalrastriyadainik.com##div.generic-ad
 nepalviews.com##*[class*="gam-nvad"]
 nepalviews.com##.sticky__banner
-next.sharehubnepal.com##.top-40.sticky > .mb-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
-next.sharehubnepal.com##.md\:block.hidden.space-y-6
-www.nepalviews.com##.news-landing-page > .nv-promo-placeholder.container
-www.nepalviews.com##.recent-news-list.content-list .container > .desktop-mode.banner-promo
-www.nepalviews.com##.inside-content-ad.container
-www.nepalviews.com##div.desktop-mode.banner-promo:nth-of-type(2)
-www.nepalviews.com##div.desktop-mode.banner-promo:nth-of-type(3)
-www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(8)
-www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(9)
-www.nepalviews.com##p:nth-of-type(17)
-www.nepalviews.com##p:nth-of-type(18)
-www.nepalviews.com##li:nth-of-type(10)
-www.nepalviews.com##li:nth-of-type(9)
-www.nepalviews.com##li:nth-of-type(8)
-www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(2)
-www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(1)
 neplays.com##.pbottom--30.ptop--30.col-md-4.main--sidebar
 nepsealpha.com##.border-danger.border.text-center.justify-content-center.d-flex.card
 nepsealpha.com##.border-info.border.text-center.justify-content-center.d-flex.card
@@ -767,6 +756,8 @@ news24nepal.tv##.textwidget > p
 newsnepalhub.com##.footer-logo-address.footer-box > .img-responsive
 newsnepalhub.com##div.banner-add
 newspolar.com##.widget
+next.sharehubnepal.com##.top-40.sticky > .mb-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
+next.sharehubnepal.com##.md\:block.hidden.space-y-6
 next.sharehubnepal.com##.col-span-12.hidden.lg\:block.lg\:col-span-5 > .dark\:scrollbar-thin-dark.scrollbar-thin.overflow-auto.top-16.sticky.gap-4.xl\:grid-cols-1.\32 xl\:grid-cols-1.lg\:grid-cols-1.md\:grid-cols-2.grid > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 next.sharehubnepal.com##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.backdrop-blur-sm.bg-opacity-40.bg-black\/20.z-50.inset-0.fixed
 next.sharehubnepal.com##.mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
@@ -774,6 +765,7 @@ next.sharehubnepal.com##.my-4 > div > .mt-4.translate-y-0.opacity-100.transform.
 next.sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-full.grid.z-50.top-\[50\%\].left-\[50\%\].fixed
 next.sharehubnepal.com##.z-\[60\].bg-opacity-50.bg-black.justify-center.items-center.flex.h-full.w-full.left-0.top-0.fixed
 next.sharehubnepal.com##.z-50.left-4.top-4.fixed
+next.sharehubnepal.com##.vertical-banner
 nishankhatri.com.np##.theme1.cmbfbuthzktthfvlotfdedkpczelpchnwfhpzldtnmrqhvskrodilfko > .nvbpblrajnxqfoqnrpcgzquxezujllprvzhyafdcwgptmlrkeldxdzilfko
 np.ictframe.com##.elementor-element-6873a63.elementor-element.elementor-top-column.elementor-col-66.elementor-column
 np.ictframe.com##.elementor-element-7099b28.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-widget-wrap
@@ -1062,6 +1054,7 @@ sharehubnepal.com##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade
 sharehubnepal.com##.my-4 > div > .mt-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-full.grid.z-50.top-\[50\%\].left-\[50\%\].fixed
 sharehubnepal.com##.top-40.sticky > .mb-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
+sharehubnepal.com##.vertical-banner
 sharehubnepal.com##.z-\[60\].bg-opacity-50.bg-black.justify-center.items-center.flex.h-full.w-full.left-0.top-0.fixed
 sharesansar.com##.advsTrack
 sharesansar.com##.header-top-advertisment
@@ -1153,8 +1146,8 @@ tvannapurna.com##.sgpb-popup-dialog-main-div-wrapper
 tvannapurna.com##.sgpb-popup-overlay.sgpb-popup-overlay-118111.sgpb-theme-1-overlay
 ujyaaloonline.com##.ad
 ujyaaloonline.com##.instagram-media
-urchin.com
 ukeraa.com##.active.modal-container
+urchin.com
 uskhabar.com##.widget_media_image
 vanipress.com##.top__header__ads
 vanipress.com##div.banner__ads
@@ -1171,6 +1164,20 @@ www.corporatenepal.com##body > .adver
 www.corporatenepal.com##section.mt-15.mb-15:nth-of-type(1)
 www.corporatenepal.com##section.section > .adver
 www.corporatenepal.com##section.section:nth-of-type(11)
+www.nepalviews.com##.news-landing-page > .nv-promo-placeholder.container
+www.nepalviews.com##.recent-news-list.content-list .container > .desktop-mode.banner-promo
+www.nepalviews.com##.inside-content-ad.container
+www.nepalviews.com##div.desktop-mode.banner-promo:nth-of-type(2)
+www.nepalviews.com##div.desktop-mode.banner-promo:nth-of-type(3)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(8)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(9)
+www.nepalviews.com##p:nth-of-type(17)
+www.nepalviews.com##p:nth-of-type(18)
+www.nepalviews.com##li:nth-of-type(10)
+www.nepalviews.com##li:nth-of-type(9)
+www.nepalviews.com##li:nth-of-type(8)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(2)
+www.nepalviews.com##div.nv-promo-placeholder.container:nth-of-type(1)
 yalambartimes.com##.widget
 yanglenews.com##.adertise_wrapper
 yanglenews.com##.total-views-read
@@ -1667,11 +1674,6 @@ yuwadaily.com##.mb-20.text-center
 ||cdn.hbplatform.com^$domain=sharesansar.com
 ||contextual.media.net^$domain=sharesansar.com
 ||adexchange.adsaronepal.com.np^$domain=sharesansar.com
-||content.sharesansar.com/photos/shares/advertisement/*$image
-
-! ---- sharehubnepal.com: simplified ad rules ----
-sharehubnepal.com##.vertical-banner
-next.sharehubnepal.com##.vertical-banner
 
 !#endif
 !#endif
