@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Tue Jul 07 09:00:00 PM +0545 2026
+! Last modified: Tue Jul  7 11:06:23 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -38,7 +38,6 @@
 ##div[class^="ad-"]
 ##div[id*="advert"]
 ##div[class*="advert"]
-##.cookie-consent ~ * (optional, hide if annoying)
 ##amp-ad
 ##amp-embed.ad_cnt
 ##amp-sticky-ad
