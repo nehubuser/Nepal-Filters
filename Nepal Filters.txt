@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Sun Jun 14 08:44:16 PM +0545 2026
+! Last modified: Tue Jul 07 09:00:00 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -383,6 +383,10 @@ ekantipur.com##div.kdaily-high-ad
 ekantipur.com##div.kdaily-high-ad:nth-of-type(even)
 ekantipur.com##div.kdaily-high-ad:nth-of-type(odd)
 ekantipur.com##div.mainContentX-side:nth-of-type(1)
+ekantipur.com##.paywall-overlay
+ekantipur.com##.paywall-container
+ekantipur.com##.roadblock-header
+ekantipur.com##.roadblock-image
 emountaintv.com##.partners-container
 english.arthakendra.com##.my-10.gap-5.flex-col.flex.row-span-4
 english.arthakendra.com##div.mx-auto.xl\:px-10.lg\:px-10.md\:px-10.px-5.my-5.\32 xl\:w-\[1536px\].w-full:nth-of-type(2)
@@ -582,6 +586,22 @@ merolagani.com##.news-inner-ads > .row
 merolagani.com##.topbar
 merolagani.com##div.center-block.googleAds:nth-of-type(5)
 merolagani.com##div.col-md-3 > div.visible-desktop-ad
+merolagani.com##.popup-wrapper
+merolagani.com##.popup
+merolagani.com##.footer-advert
+merolagani.com##.mobile-advert
+merolagani.com##.mobile-advert-advert
+merolagani.com##.sticky-footer-advert
+merolagani.com##.advert
+merolagani.com##.slot-A9
+merolagani.com##.S3-wrap
+merolagani.com##.S4-wrap
+merolagani.com##.ear-panel
+merolagani.com##.visible-desktop-ad
+merolagani.com##.visible-mobile-ad
+merolagani.com##.popupbox1
+merolagani.com##div[id^="ctl00_ContentPlaceHolder1_Advertisement"]
+merolagani.com##div[id^="ctl00_A"]
 meronews.com##.cont_break_ads
 meronews.com##div.y
 mirmireonline.com##.widget
@@ -611,6 +631,8 @@ nagariknews.nagariknetwork.com##.subscriber-content-check > .row
 nagariknews.nagariknetwork.com##.text-danger.text-center.font-size-14.font-bold
 nagariknews.nagariknetwork.com##.view-in-app
 nagariknews.nagariknetwork.com##[id^="adverts"]
+nagariknews.nagariknetwork.com##.roadblock
+nagariknews.nagariknetwork.com##.modal-backdrop
 namastetimes.com###fb-comments
 narayanionline.com##.col-lg-3.col-md-4
 narayanionline.com##.col-lg-9.col-md-8 > .no-vigyapan-section
@@ -1042,6 +1064,9 @@ sharehubnepal.com##.text-center.sm\:rounded-lg.data-\[state\=open\]\:slide-in-fr
 sharehubnepal.com##.top-40.sticky > .mb-4.translate-y-0.opacity-100.transform.ease-in-out.duration-500.transition-all.relative.vertical-banner
 sharehubnepal.com##.z-\[60\].bg-opacity-50.bg-black.justify-center.items-center.flex.h-full.w-full.left-0.top-0.fixed
 sharesansar.com##.advsTrack
+sharesansar.com##.header-top-advertisment
+sharesansar.com##.admana-plugin
+sharesansar.com##div[id^="ad-"]
 sharesansar.com##.margin-top-10.social-share
 sharesansar.com##.mm-top.margin-top-bottom-10
 sharesansar.com##.outer-footer
@@ -1636,6 +1661,17 @@ yuwadaily.com##.mb-20.text-center
 ||yuwasandesh.com/*.gif$image
 ||zen1news.com/*.gif$image
 ||zen1news.com/*1718518510-LjUF0.jpg$image
+
+! ---- sharesansar.com: ad network/image blocking ----
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sharesansar.com
+||cdn.hbplatform.com^$domain=sharesansar.com
+||contextual.media.net^$domain=sharesansar.com
+||adexchange.adsaronepal.com.np^$domain=sharesansar.com
+||content.sharesansar.com/photos/shares/advertisement/*$image
+
+! ---- sharehubnepal.com: simplified ad rules ----
+sharehubnepal.com##.vertical-banner
+next.sharehubnepal.com##.vertical-banner
 
 !#endif
 !#endif
