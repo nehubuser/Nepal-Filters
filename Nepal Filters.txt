@@ -1,5 +1,5 @@
 ! Title: 🇳🇵Nepal Adblock Filter list 
-! Last modified: Tue Jul  7 11:06:23 PM +0545 2026
+! Last modified: Wed Jul  8 06:17:05 PM +0545 2026
 ! Expires: 30 days
 ! Description: Filterlist optimized for uBlock, AdGuard and ABP | Subscription: Easylist. 
 ! Homepage: https://github.com/nehubuser/Nepal-Filters 
@@ -643,6 +643,7 @@ nagariknews.nagariknetwork.com##.modal-backdrop
 nagariknews.nagariknetwork.com##.roadblock
 nagariknews.nagariknetwork.com##.show.fade.modal-backdrop
 nagariknews.nagariknetwork.com##.show.roadblock-modal-bg.roadblock.fade.modal
+nagariknews.nagariknetwork.com##.sidebar.col-lg-4
 namastetimes.com###fb-comments
 narayanionline.com##.col-lg-3.col-md-4
 narayanionline.com##.col-lg-9.col-md-8 > .no-vigyapan-section
@@ -1169,6 +1170,8 @@ www.corporatenepal.com##body > .adver
 www.corporatenepal.com##section.mt-15.mb-15:nth-of-type(1)
 www.corporatenepal.com##section.section > .adver
 www.corporatenepal.com##section.section:nth-of-type(11)
+www.easynepalityping.com##div.ad-container:nth-of-type(2)
+www.easynepalityping.com##div.advertisement-label:nth-of-type(1)
 www.nepalviews.com##.news-landing-page > .nv-promo-placeholder.container
 www.nepalviews.com##.recent-news-list.content-list .container > .desktop-mode.banner-promo
 www.nepalviews.com##.inside-content-ad.container
@@ -1631,6 +1634,7 @@ yuwadaily.com##.mb-20.text-center
 ||thenepaltop.com/*.gif$image
 ||thuloparda.com/*.gif$image
 ||topnepalnews.com/*.gif$image
+||translate.google.com/translate_a/element.js$script,domain=bizkhabar.com
 ||tvannapurna.com/*.gif$image
 ||ujyaaloonline.com/*.gif$image
 ||ukaalo.com/*.gif$image
